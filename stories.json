@@ -1,0 +1,106 @@
+{
+  "version": 2,
+  "defaultLanguage": "id-ID",
+  "stories": [
+    {
+      "id": "kancil_001",
+      "ageRange": "4-7",
+      "tags": [
+        "fabel",
+        "cerdik"
+      ],
+      "coverAsset": "assets/covers/kancil.png",
+      "translations": {
+        "id-ID": {
+          "title": "Si Kancil",
+          "chapter": "Bab 1: Timun Petani",
+          "content": [
+            "Pada suatu hari yang cerah, di tepi sebuah hutan yang lebat, hiduplah seekor Kancil yang sangat cerdik. Kancil itu sedang berjalan-jalan santai sambil menikmati udara pagi yang segar. Ia merasa lapar dan teringat akan ladang mentimun milik Pak Tani yang berada di seberang sungai.",
+            "\"Hmm, mentimun itu pasti sangat segar dan renyah,\" gumam si Kancil sambil membayangkan rasa buah kesukaannya itu. Namun, ada satu masalah besar yang harus ia hadapi. Sungai yang memisahkan hutan dengan ladang tersebut sangat dalam dan berarus deras.",
+            "\"Bagaimana ya caranya aku bisa menyeberang tanpa harus basah kuyup?\" pikirnya dengan keras. Tiba-tiba, ia melihat seekor buaya besar yang sedang berjemur di pinggir sungai. Sebuah ide cemerlang muncul di kepalanya yang mungil. Dengan senyum lebar, si Kancil mendekati sungai dan memanggil sang buaya dengan suara yang lantang.",
+            "\"Hai Buaya! Apakah kamu dan teman-temanmu sedang lapar hari ini? Aku membawa kabar gembira dari sang Raja Hutan!\" teriak si Kancil sambil melompat-lompat kecil di tepian."
+          ]
+        },
+        "en-US": {
+          "title": "The Clever Mousedeer",
+          "chapter": "Chapter 1: The Farmer's Cucumbers",
+          "content": [
+            "On a bright morning, at the edge of a dense jungle, there lived a very clever little mousedeer called Kancil. He was strolling leisurely, enjoying the fresh morning air, when hunger struck and he remembered the cucumber field belonging to Pak Tani, across the river.",
+            "\"Hmm, those cucumbers must be so crisp and refreshing,\" Kancil murmured, imagining the taste of his favourite fruit. But there was one big problem standing between him and his meal. The river separating the jungle from the field was deep and fast-flowing.",
+            "\"How on earth can I cross without getting soaked?\" he wondered aloud. Suddenly, he spotted a large crocodile basking on the riverbank. A brilliant idea flashed through his clever little head. With a wide grin, Kancil approached the water and called out to the crocodile in a loud, cheerful voice.",
+            "\"Hey, Crocodile! Are you and your friends hungry today? I bring wonderful news from the King of the Forest!\" shouted Kancil, hopping excitedly at the water's edge."
+          ]
+        }
+      }
+    },
+    {
+      "id": "timunmas_001",
+      "ageRange": "5-9",
+      "tags": [
+        "petualangan",
+        "dongeng",
+        "cerdik"
+      ],
+      "coverAsset": "assets/covers/timunmas.png",
+      "translations": {
+        "id-ID": {
+          "title": "Timun Mas",
+          "chapter": "Bab 1: Anak dari Mentimun Emas",
+          "content": [
+            "Di sebuah desa yang tenang dan subur, hiduplah sepasang suami istri yang sangat mendambakan seorang anak. Setiap pagi dan petang mereka berdoa dengan penuh harap, namun bertahun-tahun berlalu tanpa jawaban. Hingga suatu malam yang gelap, sosok raksasa hijau bertubuh besar muncul di depan pintu mereka. Ia dikenal sebagai Buto Ijo, penguasa hutan yang ditakuti semua orang.",
+            "\"Aku tahu keinginanmu,\" kata Buto Ijo dengan suara berat menggelegar. \"Tanam benih mentimun ini, dan seorang anak akan lahir untukmu. Rawat ia baik-baik. Namun ketika ia berumur tujuh tahun, serahkan ia kepadaku sebagai gantinya.\" Pasangan itu gemetar, namun kerinduan akan anak mengalahkan rasa takut mereka. Mereka pun menerima benih itu dengan tangan yang bergetar.",
+            "Ajaib! Dari benih itu tumbuh sebatang mentimun yang berkilauan seperti emas di bawah sinar matahari. Ketika mentimun itu dipetik dan dibuka dengan lembut, di dalamnya terbaring seorang bayi perempuan yang cantik jelita, tertidur dengan senyum di bibirnya. Air mata kebahagiaan mengalir di pipi sang ibu. Mereka menamainya Timun Mas, dan gadis kecil itu tumbuh menjadi anak yang cerdas, lincah, dan penuh semangat.",
+            "Tahun demi tahun berlalu bagai angin. Ketika Timun Mas genap berusia tujuh tahun, Buto Ijo datang menagih janjinya dengan langkah yang menggetarkan bumi. Sang ibu yang panik segera berlari menemui seorang pertapa sakti yang tinggal di lereng gunung. Sang pertapa menatap perempuan itu dengan tenang, lalu menyerahkan empat bungkusan kecil kepada Timun Mas. \"Biji mentimun, jarum, garam, dan terasi. Lemparkan satu per satu jika raksasa itu mengejarmu. Percayalah, kau akan selamat,\" bisiknya.",
+            "Timun Mas berlari sekencang-kencangnya menembus lebatnya hutan. Buto Ijo mengaum keras dan mengejar dengan langkah raksasa yang menggoyang pepohonan. Timun Mas melempar bungkusan pertama—biji mentimun beterbangan ke udara. Seketika, hutan mentimun yang lebat dan rimbun tumbuh menghalangi jalan, membelit kaki Buto Ijo. Sang raksasa berteriak marah, namun dengan sekali sentak ia berhasil merobohkan semua tanaman itu.",
+            "Timun Mas melempar jarum—ratusan pohon bambu runcing bermunculan dari tanah, menusuk dan menggores kulit Buto Ijo yang tebal. Raksasa itu meraung kesakitan namun tidak berhenti. Timun Mas melempar garam—lautan luas tiba-tiba terhampar di antara mereka. Buto Ijo menderam, lalu terjun dan berenang dengan gagah melewati ombak-ombak besar itu.",
+            "Nafas Timun Mas mulai tersengal. Satu bungkusan terakhir masih ada di genggamannya. Dengan seluruh sisa tenaga, ia melempar terasi itu ke tanah di belakangnya. Dari bumi meluaplah lautan lumpur mendidih yang pekat dan bergolak. Buto Ijo yang berlari kencang tidak mampu menghentikan langkahnya. Ia terperosok masuk ke dalam lumpur yang dalam, meronta-ronta, dan perlahan tenggelam hingga hilang dari pandangan.",
+            "Timun Mas terduduk di rerumputan, napasnya berat namun hatinya ringan seperti bulu. Ia berlari pulang dan langsung masuk ke pelukan hangat ibunya. Keduanya menangis dan tertawa bersama. Sejak hari itu, Timun Mas dan kedua orang tuanya hidup dengan damai dan bahagia selamanya, bebas dari bayangan gelap sang raksasa yang tidak akan pernah kembali lagi."
+          ]
+        },
+        "en-US": {
+          "title": "Timun Mas",
+          "chapter": "Chapter 1: Born of the Golden Cucumber",
+          "content": [
+            "In a quiet and fertile village, there lived a husband and wife who longed deeply for a child. Every morning and evening they prayed with hopeful hearts, but years passed without answer. Then one dark night, a massive green giant appeared at their door. He was known as Buto Ijo, the fearsome ruler of the forest.",
+            "\"I know what you wish for,\" boomed Buto Ijo in a voice that shook the walls. \"Plant this cucumber seed, and a child will be born to you. Raise her well. But when she turns seven, you must give her to me in return.\" The couple trembled, yet their longing for a child overcame their fear, and with shaking hands they accepted the seed.",
+            "Miraculous! From the seed grew a cucumber that gleamed like gold in the sunlight. When it was gently opened, inside lay a beautiful baby girl, sleeping with a smile on her lips. Tears of joy streamed down the mother's cheeks. They named her Timun Mas, and she grew into a clever, lively, and spirited child.",
+            "Years flew by like the wind. When Timun Mas turned seven, Buto Ijo returned to claim his promise, his footsteps shaking the earth. Her panicked mother ran to a wise hermit on the mountain slope. The hermit calmly handed Timun Mas four small pouches. \"Cucumber seeds, needles, salt, and shrimp paste. Throw them one by one if the giant chases you. Trust in them, and you will be safe,\" he whispered.",
+            "Timun Mas sprinted as fast as she could through the dense jungle. Buto Ijo roared and gave chase with giant strides that toppled trees. Timun Mas threw the first pouch — cucumber seeds scattered through the air. Instantly, a thick tangle of cucumber vines erupted, ensnaring the giant's legs. He bellowed with rage and ripped through the vines with one mighty yank.",
+            "Timun Mas threw the needles — hundreds of sharp bamboo shoots burst from the ground, piercing and scratching Buto Ijo's thick skin. He howled in pain but did not stop. She threw the salt — a vast ocean suddenly spread between them. Buto Ijo snarled, then plunged in and swam powerfully through the crashing waves.",
+            "Timun Mas's breath came in gasps. One last pouch remained in her grip. With every ounce of strength she had left, she hurled the shrimp paste onto the ground behind her. From the earth surged a boiling, churning sea of thick mud. Buto Ijo, running at full speed, could not stop himself. He plunged into the deep mud, struggled violently, and slowly sank until he vanished from sight.",
+            "Timun Mas collapsed on the grass, her breath heavy but her heart light as a feather. She ran home and fell straight into her mother's warm embrace. They wept and laughed together. From that day on, Timun Mas and her parents lived in peace and happiness forever, free from the shadow of the giant who would never return."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bintang_001",
+      "ageRange": "3-6",
+      "tags": [
+        "pengantar tidur",
+        "percaya diri"
+      ],
+      "coverAsset": "assets/covers/bintang.png",
+      "translations": {
+        "id-ID": {
+          "title": "Bintang yang Malu",
+          "content": [
+            "Di langit malam, ada sebuah bintang kecil yang selalu bersembunyi di balik awan. Ia merasa cahayanya terlalu redup.",
+            "Suatu malam, angin berbisik, 'Cahayamu cukup untuk menerangi jalan siapa pun yang tersesat.'",
+            "Bintang kecil pun berani bersinar lebih terang. Di bawah sana, seorang anak tersenyum dan berkata, 'Lihat! Bintang itu cantik sekali.'",
+            "Sejak saat itu, bintang kecil tidak malu lagi. Ia tahu, cahaya kecil pun tetap berarti."
+          ]
+        },
+        "en-US": {
+          "title": "The Shy Little Star",
+          "content": [
+            "In the night sky, a little star always hid behind the clouds. It thought its light was too dim.",
+            "One night, the wind whispered, 'Your light is enough to guide anyone who feels lost.'",
+            "The little star bravely shone brighter. A child below smiled, 'Look! That star is so beautiful.'",
+            "From then on, the little star was not shy anymore. It learned that even a small light matters."
+          ]
+        }
+      }
+    }
+  ]
+}
