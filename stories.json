@@ -1,5 +1,6 @@
+web application/stitch/projects/15398121559336555239/screens/0c9f41732fb44ae8bab0dc6ef1c35318
 {
-  "version": 2,
+  "version": 3,
   "defaultLanguage": "id-ID",
   "stories": [
     {
@@ -51,7 +52,7 @@
             "\"Aku tahu keinginanmu,\" kata Buto Ijo dengan suara berat menggelegar. \"Tanam benih mentimun ini, dan seorang anak akan lahir untukmu. Rawat ia baik-baik. Namun ketika ia berumur tujuh tahun, serahkan ia kepadaku sebagai gantinya.\" Pasangan itu gemetar, namun kerinduan akan anak mengalahkan rasa takut mereka. Mereka pun menerima benih itu dengan tangan yang bergetar.",
             "Ajaib! Dari benih itu tumbuh sebatang mentimun yang berkilauan seperti emas di bawah sinar matahari. Ketika mentimun itu dipetik dan dibuka dengan lembut, di dalamnya terbaring seorang bayi perempuan yang cantik jelita, tertidur dengan senyum di bibirnya. Air mata kebahagiaan mengalir di pipi sang ibu. Mereka menamainya Timun Mas, dan gadis kecil itu tumbuh menjadi anak yang cerdas, lincah, dan penuh semangat.",
             "Tahun demi tahun berlalu bagai angin. Ketika Timun Mas genap berusia tujuh tahun, Buto Ijo datang menagih janjinya dengan langkah yang menggetarkan bumi. Sang ibu yang panik segera berlari menemui seorang pertapa sakti yang tinggal di lereng gunung. Sang pertapa menatap perempuan itu dengan tenang, lalu menyerahkan empat bungkusan kecil kepada Timun Mas. \"Biji mentimun, jarum, garam, dan terasi. Lemparkan satu per satu jika raksasa itu mengejarmu. Percayalah, kau akan selamat,\" bisiknya.",
-            "Timun Mas berlari sekencang-kencangnya menembus lebatnya hutan. Buto Ijo mengaum keras dan mengejar dengan langkah raksasa yang menggoyang pepohonan. Timun Mas melempar bungkusan pertama—biji mentimun beterbangan ke udara. Seketika, hutan mentimun yang lebat dan rimbun tumbuh menghalangi jalan, membelit kaki Buto Ijo. Sang raksasa berteriak marah, namun dengan sekali sentak ia berhasil merobohkan semua tanaman itu.",
+            "Timun Mas berlari sekencang-kencangnya menembus lebatnya hutan. Buto Ijo mengaum keras and mengejar dengan langkah raksasa yang menggoyang pepohonan. Timun Mas melempar bungkusan pertama—biji mentimun beterbangan ke udara. Seketika, hutan mentimun yang lebat dan rimbun tumbuh menghalangi jalan, membelit kaki Buto Ijo. Sang raksasa berteriak marah, namun dengan sekali sentak ia berhasil merobohkan semua tanaman itu.",
             "Timun Mas melempar jarum—ratusan pohon bambu runcing bermunculan dari tanah, menusuk dan menggores kulit Buto Ijo yang tebal. Raksasa itu meraung kesakitan namun tidak berhenti. Timun Mas melempar garam—lautan luas tiba-tiba terhampar di antara mereka. Buto Ijo menderam, lalu terjun dan berenang dengan gagah melewati ombak-ombak besar itu.",
             "Nafas Timun Mas mulai tersengal. Satu bungkusan terakhir masih ada di genggamannya. Dengan seluruh sisa tenaga, ia melempar terasi itu ke tanah di belakangnya. Dari bumi meluaplah lautan lumpur mendidih yang pekat dan bergolak. Buto Ijo yang berlari kencang tidak mampu menghentikan langkahnya. Ia terperosok masuk ke dalam lumpur yang dalam, meronta-ronta, dan perlahan tenggelam hingga hilang dari pandangan.",
             "Timun Mas terduduk di rerumputan, napasnya berat namun hatinya ringan seperti bulu. Ia berlari pulang dan langsung masuk ke pelukan hangat ibunya. Keduanya menangis dan tertawa bersama. Sejak hari itu, Timun Mas dan kedua orang tuanya hidup dengan damai dan bahagia selamanya, bebas dari bayangan gelap sang raksasa yang tidak akan pernah kembali lagi."
@@ -87,7 +88,7 @@
           "content": [
             "Di langit malam, ada sebuah bintang kecil yang selalu bersembunyi di balik awan. Ia merasa cahayanya terlalu redup.",
             "Suatu malam, angin berbisik, 'Cahayamu cukup untuk menerangi jalan siapa pun yang tersesat.'",
-            "Bintang kecil pun berani bersinar lebih terang. Di bawah sana, seorang anak tersenyum dan berkata, 'Lihat! Bintang itu cantik sekali.'",
+            "Bintang kecil pun berani bersinar lebih terang. Di bawah sana, seorang anak tersenyum and berkata, 'Lihat! Bintang itu cantik sekali.'",
             "Sejak saat itu, bintang kecil tidak malu lagi. Ia tahu, cahaya kecil pun tetap berarti."
           ]
         },
@@ -98,6 +99,45 @@
             "One night, the wind whispered, 'Your light is enough to guide anyone who feels lost.'",
             "The little star bravely shone brighter. A child below smiled, 'Look! That star is so beautiful.'",
             "From then on, the little star was not shy anymore. It learned that even a small light matters."
+          ]
+        }
+      }
+    },
+    {
+      "id": "malinkundang_001",
+      "ageRange": "6-12",
+      "tags": [
+        "legenda",
+        "cerdik"
+      ],
+      "coverAsset": "assets/covers/malinkundang.png",
+      "translations": {
+        "id-ID": {
+          "title": "Malin Kundang",
+          "chapter": "Bab 1: Kepulangan Sang Saudagar",
+          "content": [
+            "Dermaga di Pantai Air Manis sore itu dipadati oleh penduduk desa yang penasaran. Dari kejauhan, sebuah kapal megah dengan layar-layar sutra berwarna keemasan perlahan mendekati tepian. Kapal itu bukanlah kapal biasa; ukurannya raksasa, dengan ukiran kayu yang rumit dan hiasan permata yang berkilauan diterpa cahaya matahari terbenam.",
+            "Sesampainya di dermaga, seorang pria muda berpakaian sangat mewah melangkah turun dengan gagah. Ia mengenakan jubah beludru biru tua dengan sulaman benang emas, simbol kekayaan yang luar biasa. Di sampingnya berdiri seorang wanita cantik jelita, istrinya, yang juga mengenakan perhiasan yang menyilaukan mata.",
+            "\"Lihatlah! Itulah Malin! Malin telah kembali sebagai saudagar kaya!\" seru seorang penduduk dengan penuh takjub.",
+            "Kabar kepulangan Malin Kundang segera menyebar ke seluruh pelosok desa bagaikan api yang ditiup angin. Kabar itu sampai ke telinga seorang wanita tua renta yang mengenakan pakaian compang-camping. Hatinya bergetar hebat. Dengan langkah tertatih-tatih dan air mata kebahagiaan yang mulai mengalir, ia bergegas menuju pelabuhan, berharap penantian panjangnya selama bertahun-tahun akhirnya berakhir.",
+            "Ia tak memedulikan badannya yang lemah. Di pikirannya hanya ada satu nama: Malin, anak kesayangannya yang dulu pergi merantau untuk mengubah nasib.",
+            "Sesampainya di depan Malin, wanita tua itu memanggil dengan suara bergetar, \"Malin... Malin anakku, ini Ibu!\" Namun, Malin yang kini kaya raya merasa malu mengakui wanita compang-camping itu di depan istrinya yang cantik. Ia mendorong ibunya hingga jatuh and berteriak, \"Pergi! Kau bukan ibuku! Ibuku tidak miskin and kotor seperti ini!\"",
+            "Hati wanita tua itu hancur berkeping-keping. Sambil menangis and menengadah ke langit, ia berdoa, \"Ya Tuhan, jika benar ia adalah Malin anakku, hukumlah ia atas kedurhakaannya!\" Seketika, langit yang tadinya cerah menjadi gelap gulita. Badai dahsyat datang menerjang kapal megah Malin Kundang.",
+            "Di tengah sambaran petir and amukan ombak, Malin Kundang tersungkur di atas batu karang. Perlahan-lahan, tubuhnya mulai mengeras and berubah warna menjadi kelabu. Ia bersimpuh memohon ampun, namun segalanya sudah terlambat. Malin Kundang telah berubah menjadi batu, menjadi pengingat abadi bagi siapa pun yang berani mendurhakai orang tua."
+          ]
+        },
+        "en-US": {
+          "title": "Malin Kundang",
+          "chapter": "Chapter 1: The Merchant's Return",
+          "content": [
+            "The dock at Pantai Air Manis that afternoon was crowded with curious villagers. From afar, a magnificent ship with golden silk sails slowly approached the shore. It was no ordinary ship; it was giant, with intricate wood carvings and jewel decorations that shimmered in the sunset light.",
+            "Upon arriving at the dock, a very luxuriously dressed young man stepped down gallantly. He wore a dark blue velvet robe with gold thread embroidery, a symbol of immense wealth. Beside him stood a beautiful woman, his wife, who also wore dazzling jewelry.",
+            "\"Look! That's Malin! Malin has returned as a wealthy merchant!\" exclaimed a villager in amazement.",
+            "The news of Malin Kundang's return spread throughout the village like wildfire. The news reached the ears of an old woman dressed in rags. Her heart trembled. With staggering steps and tears of joy starting to flow, she rushed to the harbor, hoping her years of long waiting were finally over.",
+            "She didn't care about her weak body. In her mind was only one name: Malin, her beloved son who had gone abroad to change his fate.",
+            "Arriving in front of Malin, the old woman called out in a trembling voice, \"Malin... Malin my son, it's Mother!\" However, Malin, who was now wealthy, felt ashamed to acknowledge the ragged woman in front of his beautiful wife. He pushed his mother down and shouted, \"Go away! You are not my mother! My mother is not poor and dirty like this!\"",
+            "The old woman's heart was shattered. Weeping and looking up at the sky, she prayed, \"Oh God, if he is truly my son Malin, punish him for his disobedience!\" Instantly, the previously clear sky turned pitch black. A fierce storm struck Malin Kundang's magnificent ship.",
+            "Amidst lightning strikes and raging waves, Malin Kundang fell onto the rocks. Slowly, his body began to harden and turn gray. He knelt begging for forgiveness, but it was too late. Malin Kundang had turned into stone, an eternal reminder to anyone who dares to disobey their parents."
           ]
         }
       }
