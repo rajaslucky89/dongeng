@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "defaultLanguage": "id-ID",
   "stories": [
     {
@@ -54,7 +54,7 @@
             "Timun Mas berlari sekencang-kencangnya menembus lebatnya hutan. Buto Ijo mengaum keras dan mengejar dengan langkah raksasa yang menggoyang pepohonan. Timun Mas melempar bungkusan pertama—biji mentimun beterbangan ke udara. Seketika, hutan mentimun yang lebat dan rimbun tumbuh menghalangi jalan, membelit kaki Buto Ijo. Sang raksasa berteriak marah, namun dengan sekali sentak ia berhasil merobohkan semua tanaman itu.",
             "Timun Mas melempar jarum—ratusan pohon bambu runcing bermunculan dari tanah, menusuk dan menggores kulit Buto Ijo yang tebal. Raksasa itu meraung kesakitan namun tidak berhenti. Timun Mas melempar garam—lautan luas tiba-tiba terhampar di antara mereka. Buto Ijo menderam, lalu terjun dan berenang dengan gagah melewati ombak-ombak besar itu.",
             "Nafas Timun Mas mulai tersengal. Satu bungkusan terakhir masih ada di genggamannya. Dengan seluruh sisa tenaga, ia melempar terasi itu ke tanah di belakangnya. Dari bumi meluaplah lautan lumpur mendidih yang pekat dan bergolak. Buto Ijo yang berlari kencang tidak mampu menghentikan langkahnya. Ia terperosok masuk ke dalam lumpur yang dalam, meronta-ronta, dan perlahan tenggelam hingga hilang dari pandangan.",
-            "Timun Mas terduduk di rerumputan, napasnya berat namun hatinya ringan seperti bulu. Ia berlari pulang dan langsung masuk ke pelukan hangat ibunya. Keduanya menangis dan tertawa bersama. Sejak hari itu, Timun Mas dan kedua orang tuanya hidup dengan damai dan bahagia selamanya, bebas dari bayangan gelap sang raksasa yang tidak akan pernah kembali lagi."
+            "Timun Mas terduduk di rerumputan, napasnya berat namun hatinya ringan seperti bulu. Ia berlari pulang dan langsung masuk ke pelukan hangat ibunya. Keduanya menangis dan tertawa bersama. Sejak hari itu, Timun Mas dan kedua orang tuanya hidup dengan damai dan bahagia selamanya, bebas dari bayangan gelap sang raksasa yang tidak akan kembali lagi."
           ]
         },
         "en-US": {
@@ -137,6 +137,72 @@
             "Arriving in front of Malin, the old woman called out in a trembling voice, \"Malin... Malin my son, it's Mother!\" However, Malin, who was now wealthy, felt ashamed to acknowledge the ragged woman in front of his beautiful wife. He pushed his mother down and shouted, \"Go away! You are not my mother! My mother is not poor and dirty like this!\"",
             "The old woman's heart was shattered. Weeping and looking up at the sky, she prayed, \"Oh God, if he is truly my son Malin, punish him for his disobedience!\" Instantly, the previously clear sky turned pitch black. A fierce storm struck Malin Kundang's magnificent ship.",
             "Amidst lightning strikes and raging waves, Malin Kundang fell onto the rocks. Slowly, his body began to harden and turn gray. He knelt begging for forgiveness, but it was too late. Malin Kundang had turned into stone, an eternal reminder to anyone who dares to disobey their parents."
+          ]
+        }
+      }
+    },
+    {
+      "id": "keongmas_001",
+      "ageRange": "5-10",
+      "tags": [
+        "legenda",
+        "dongeng"
+      ],
+      "coverAsset": "https://raw.githubusercontent.com/rajaslucky89/dongeng/main/covers/keongmas.png",
+      "translations": {
+        "id-ID": {
+          "title": "Keong Mas",
+          "chapter": "Bagian 1",
+          "content": [
+            "Dahulu kala di Kerajaan Daha, hiduplah dua orang putri cantik bernama Candra Kirana dan Galuh Ajeng. Candra Kirana telah bertunangan dengan Raden Inu Kertapati, pangeran tampan dari Kerajaan Kahuripan.",
+            "Namun, Galuh Ajeng yang merasa iri hati bersekutu dengan seorang penyihir jahat untuk mencelakai saudaranya sendiri. Karena fitnah kejam itu, Raja Daha mengusir Candra Kirana dari istana.",
+            "\"Engkau akan menjadi seekor keong emas!\" teriak si penyihir seraya mengayunkan tongkatnya. \"Kutukan ini hanya akan hilang jika engkau bertemu dengan tunanganmu.\"",
+            "Candra Kirana pun berubah menjadi seekor keong berwarna emas yang berkilauan dan dibuang ke laut. Tak lama kemudian, seekor keong emas itu tersangkut di jala seorang janda tua yang sedang mencari ikan di pesisir pantai.",
+            "Nenek tua itu merasa kasihan dan membawanya pulang untuk dirawat di sebuah tempayan. Betapa terkejutnya sang nenek ketika keesokan harinya ia menemukan meja makannya sudah penuh dengan masakan lezat yang entah dari mana datangnya..."
+          ]
+        },
+        "en-US": {
+          "title": "The Golden Snail",
+          "chapter": "Part 1",
+          "content": [
+            "Long ago in the Kingdom of Daha, lived two beautiful princesses named Candra Kirana and Galuh Ajeng. Candra Kirana was engaged to Raden Inu Kertapati, a handsome prince from the Kingdom of Kahuripan.",
+            "However, the envious Galuh Ajeng conspired with an evil witch to harm her own sister. Because of cruel slander, the King of Daha exiled Candra Kirana from the palace.",
+            "\"You shall become a golden snail!\" shouted the witch while waving her staff. \"This curse will only vanish when you meet your fiancé.\"",
+            "Candra Kirana turned into a shimmering golden snail and was thrown into the sea. Not long after, the golden snail was caught in the net of an old widow who was fishing on the shore.",
+            "The old woman felt pity and brought it home to be cared for in a clay jar. How surprised the grandmother was when the next day she found her dining table already full of delicious dishes that came from nowhere..."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bawang_001",
+      "ageRange": "6-12",
+      "tags": [
+        "folklore",
+        "bedtime"
+      ],
+      "coverAsset": "https://raw.githubusercontent.com/rajaslucky89/dongeng/main/covers/bawangmerahputih.png",
+      "translations": {
+        "id-ID": {
+          "title": "Bawang Merah & Bawang Putih",
+          "content": [
+            "Dahulu kala, di sebuah desa yang asri, hiduplah seorang gadis cantik bernama Bawang Putih. Ia memiliki hati yang sangat lembut dan rajin. Bawang Putih tinggal bersama ibu tiri dan saudara tirinya, Bawang Merah.",
+            "\"Bawang Putih, cepat cuci semua baju ini di sungai! Jangan pulang sebelum semuanya bersih!\" teriak Bawang Merah dengan angkuh.",
+            "Setiap hari, Bawang Putih harus mengerjakan semua pekerjaan rumah sendirian, sementara Bawang Merah dan ibunya hanya bersantai. Suatu hari, saat sedang mencuci di sungai, salah satu baju milik ibu tirinya hanyut terbawa arus.",
+            "Dengan perasaan cemas, Bawang Putih menyusuri aliran sungai. Di tengah perjalanannya, ia bertemu dengan seorang nenek tua yang misterius. Nenek itu menawarkan bantuan, namun dengan sebuah syarat: Bawang Putih harus membantunya membersihkan gubuk tuanya yang berdebu.",
+            "Setelah selesai membantu, nenek itu memberikan hadiah sebagai tanda terima kasih. Ia menyodorkan dua buah labu, satu besar dan satu kecil. Karena kerendahan hatinya, Bawang Putih memilih labu yang kecil.",
+            "Betapa terkejutnya Bawang Putih saat membelah labu tersebut di rumah. Di dalamnya terdapat tumpukan emas dan permata yang berkilau! Melihat hal itu, Bawang Merah yang iri segera mencari nenek tersebut untuk mendapatkan hadiah yang lebih besar."
+          ]
+        },
+        "en-US": {
+          "title": "Bawang Merah & Bawang Putih",
+          "content": [
+            "Once upon a time, in a beautiful village, lived a beautiful girl named Bawang Putih. She had a very gentle heart and was hardworking. Bawang Putih lived with her stepmother and stepsister, Bawang Merah.",
+            "\"Bawang Putih, wash all these clothes in the river immediately! Don't come home until everything is clean!\" shouted Bawang Merah arrogantly.",
+            "Every day, Bawang Putih had to do all the housework alone, while Bawang Merah and her mother just relaxed. One day, while washing in the river, one of her stepmother's clothes was washed away by the current.",
+            "With anxious feelings, Bawang Putih followed the river flow. In the middle of her journey, she met a mysterious old woman. The grandmother offered help, but with one condition: Bawang Putih had to help her clean her dusty old hut.",
+            "After finishing the help, the grandmother gave a gift as a token of gratitude. She offered two pumpkins, one large and one small. Because of her humility, Bawang Putih chose the small pumpkin.",
+            "How surprised Bawang Putih was when she split the pumpkin at home. Inside there was a pile of gold and glittering jewels! Seeing that, the envious Bawang Merah immediately looked for the grandmother to get a bigger prize."
           ]
         }
       }
