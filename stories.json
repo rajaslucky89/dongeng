@@ -1,34 +1,106 @@
 {
-  "version": 4,
+  "version": 5,
   "defaultLanguage": "id-ID",
   "stories": [
     {
-      "id": "kancil_001",
-      "ageRange": "4-7",
+      "id": "bawang_001",
+      "ageRange": "6-12",
       "tags": [
-        "fabel",
-        "cerdik"
+        "folklore",
+        "moral"
       ],
-      "coverAsset": "https://raw.githubusercontent.com/rajaslucky89/dongeng/main/covers/kancil.png",
+      "coverAsset": "assets/covers/bawangmerahputih.png",
       "translations": {
         "id-ID": {
-          "title": "Si Kancil",
-          "chapter": "Bab 1: Timun Petani",
+          "title": "Bawang Merah & Bawang Putih",
           "content": [
-            "Pada suatu hari yang cerah, di tepi sebuah hutan yang lebat, hiduplah seekor Kancil yang sangat cerdik. Kancil itu sedang berjalan-jalan santai sambil menikmati udara pagi yang segar. Ia merasa lapar dan teringat akan ladang mentimun milik Pak Tani yang berada di seberang sungai.",
-            "\"Hmm, mentimun itu pasti sangat segar dan renyah,\" gumam si Kancil sambil membayangkan rasa buah kesukaannya itu. Namun, ada satu masalah besar yang harus ia hadapi. Sungai yang memisahkan hutan dengan ladang tersebut sangat dalam dan berarus deras.",
-            "\"Bagaimana ya caranya aku bisa menyeberang tanpa harus basah kuyup?\" pikirnya dengan keras. Tiba-tiba, ia melihat seekor buaya besar yang sedang berjemur di pinggir sungai. Sebuah ide cemerlang muncul di kepalanya yang mungil. Dengan senyum lebar, si Kancil mendekati sungai dan memanggil sang buaya dengan suara yang lantang.",
-            "\"Hai Buaya! Apakah kamu dan teman-temanmu sedang lapar hari ini? Aku membawa kabar gembira dari sang Raja Hutan!\" teriak si Kancil sambil melompat-lompat kecil di tepian."
+            "Dahulu kala, di sebuah desa yang asri, hiduplah seorang gadis cantik bernama Bawang Putih. Ia memiliki hati yang sangat lembut dan rajin. Bawang Putih tinggal bersama ibu tiri dan saudara tirinya, Bawang Merah.",
+            "\"Bawang Putih, cepat cuci semua baju ini di sungai! Jangan pulang sebelum semuanya bersih!\" teriak Bawang Merah dengan angkuh.",
+            "Setiap hari, Bawang Putih harus mengerjakan semua pekerjaan rumah sendirian, sementara Bawang Merah dan ibunya hanya bersantai. Suatu hari, saat sedang mencuci di sungai, salah satu baju milik ibu tirinya hanyut terbawa arus.",
+            "Dengan perasaan cemas, Bawang Putih menyusuri aliran sungai. Di tengah perjalanannya, ia bertemu dengan seorang nenek tua yang misterius. Nenek itu menawarkan bantuan, namun dengan sebuah syarat: Bawang Putih harus membantunya membersihkan gubuk tuanya yang berdebu.",
+            "Setelah selesai membantu, nenek itu memberikan hadiah sebagai tanda terima kasih. Ia menyodorkan dua buah labu, satu besar dan satu kecil. Karena kerendahan hatinya, Bawang Putih memilih labu yang kecil.",
+            "Betapa terkejutnya Bawang Putih saat membelah labu tersebut di rumah. Di dalamnya terdapat tumpukan emas dan permata yang berkilau! Melihat hal itu, Bawang Merah yang iri segera mencari nenek tersebut. Ia memilih labu yang paling besar, namun ketika dibuka, dari dalamnya keluar ular dan hewan-hewan berbisa. Bawang Merah pun menyesal atas sifat serakahnya."
           ]
         },
         "en-US": {
-          "title": "The Clever Mousedeer",
-          "chapter": "Chapter 1: The Farmer's Cucumbers",
+          "title": "Bawang Merah & Bawang Putih",
           "content": [
-            "On a bright morning, at the edge of a dense jungle, there lived a very clever little mousedeer called Kancil. He was strolling leisurely, enjoying the fresh morning air, when hunger struck and he remembered the cucumber field belonging to Pak Tani, across the river.",
-            "\"Hmm, those cucumbers must be so crisp and refreshing,\" Kancil murmured, imagining the taste of his favourite fruit. But there was one big problem standing between him and his meal. The river separating the jungle from the field was deep and fast-flowing.",
-            "\"How on earth can I cross without getting soaked?\" he wondered aloud. Suddenly, he spotted a large crocodile basking on the riverbank. A brilliant idea flashed through his clever little head. With a wide grin, Kancil approached the water and called out to the crocodile in a loud, cheerful voice.",
-            "\"Hey, Crocodile! Are you and your friends hungry today? I bring wonderful news from the King of the Forest!\" shouted Kancil, hopping excitedly at the water's edge."
+            "Once upon a time, in a beautiful village, lived a beautiful girl named Bawang Putih. She had a very gentle heart and was hardworking. Bawang Putih lived with her stepmother and stepsister, Bawang Merah.",
+            "\"Bawang Putih, wash all these clothes in the river immediately! Don't come home until everything is clean!\" shouted Bawang Merah arrogantly.",
+            "Every day, Bawang Putih had to do all the housework alone, while Bawang Merah and her mother just relaxed. One day, while washing in the river, one of her stepmother's clothes was washed away by the current.",
+            "With anxious feelings, Bawang Putih followed the river flow. Along the way, she met a mysterious old woman who offered help with one condition: Bawang Putih had to help clean her dusty old hut.",
+            "After finishing, the grandmother gave her two pumpkins as a gift — one large and one small. Because of her humility, Bawang Putih chose the small pumpkin.",
+            "How surprised Bawang Putih was when she split the pumpkin at home — inside was a pile of glittering gold and jewels! Seeing that, the envious Bawang Merah rushed to find the grandmother and chose the largest pumpkin. But when opened, out came snakes and venomous creatures. Bawang Merah deeply regretted her greedy nature."
+          ]
+        }
+      }
+    },
+    {
+      "id": "keongmas_001",
+      "ageRange": "5-10",
+      "tags": [
+        "legenda",
+        "dongeng"
+      ],
+      "coverAsset": "assets/covers/keongmas.png",
+      "translations": {
+        "id-ID": {
+          "title": "Keong Mas",
+          "chapter": "Bagian 1",
+          "content": [
+            "Dahulu kala di Kerajaan Daha, hiduplah dua orang putri cantik bernama Candra Kirana dan Galuh Ajeng. Candra Kirana telah bertunangan dengan Raden Inu Kertapati, pangeran tampan dari Kerajaan Kahuripan.",
+            "Namun, Galuh Ajeng yang merasa iri hati bersekutu dengan seorang penyihir jahat untuk mencelakai saudaranya sendiri. Karena fitnah kejam itu, Raja Daha mengusir Candra Kirana dari istana.",
+            "\"Engkau akan menjadi seekor keong emas!\" teriak si penyihir seraya mengayunkan tongkatnya. \"Kutukan ini hanya akan hilang jika engkau bertemu dengan tunanganmu.\"",
+            "Candra Kirana pun berubah menjadi seekor keong berwarna emas yang berkilauan dan dibuang ke laut. Tak lama kemudian, seekor keong emas itu tersangkut di jala seorang janda tua yang sedang mencari ikan di pesisir pantai.",
+            "Nenek tua itu merasa kasihan dan membawanya pulang untuk dirawat di sebuah tempayan. Betapa terkejutnya sang nenek ketika keesokan harinya ia menemukan meja makannya sudah penuh dengan masakan lezat yang entah dari mana datangnya.",
+            "Sang nenek diam-diam mengintip dan melihat seorang gadis cantik keluar dari keong emas itu lalu memasak. Gadis itu adalah Candra Kirana. Sementara itu, Raden Inu Kertapati terus mencari tunangannya ke seluruh penjuru negeri hingga akhirnya menemukan Candra Kirana. Begitu keduanya bertemu, kutukan pun terlepas dan Candra Kirana kembali ke wujud aslinya. Mereka hidup bahagia selamanya."
+          ]
+        },
+        "en-US": {
+          "title": "The Golden Snail",
+          "chapter": "Part 1",
+          "content": [
+            "Long ago in the Kingdom of Daha, lived two beautiful princesses named Candra Kirana and Galuh Ajeng. Candra Kirana was engaged to Raden Inu Kertapati, a handsome prince from the Kingdom of Kahuripan.",
+            "However, the envious Galuh Ajeng conspired with an evil witch to harm her own sister. Because of cruel slander, the King of Daha exiled Candra Kirana from the palace.",
+            "\"You shall become a golden snail!\" shouted the witch while waving her staff. \"This curse will only vanish when you meet your fiancé.\"",
+            "Candra Kirana turned into a shimmering golden snail and was thrown into the sea. Not long after, the golden snail was caught in the net of an old widow fishing on the shore.",
+            "The kind old woman brought it home to care for in a clay jar. How surprised she was the next morning when she found her dining table full of delicious dishes that came from nowhere.",
+            "The grandmother secretly peeked and saw a beautiful girl emerge from the golden snail and cook — it was Candra Kirana. Meanwhile, Raden Inu Kertapati searched every corner of the land for his fiancée until he finally found her. The moment they reunited, the curse was broken and Candra Kirana returned to her true form. They lived happily ever after."
+          ]
+        }
+      }
+    },
+    {
+      "id": "malinkundang_001",
+      "ageRange": "6-12",
+      "tags": [
+        "legenda",
+        "moral"
+      ],
+      "coverAsset": "assets/covers/malinkundang.png",
+      "translations": {
+        "id-ID": {
+          "title": "Malin Kundang",
+          "chapter": "Bab 1: Kepulangan Sang Saudagar",
+          "content": [
+            "Dermaga di Pantai Air Manis sore itu dipadati oleh penduduk desa yang penasaran. Dari kejauhan, sebuah kapal megah dengan layar-layar sutra berwarna keemasan perlahan mendekati tepian.",
+            "Sesampainya di dermaga, seorang pria muda berpakaian sangat mewah melangkah turun dengan gagah. Ia mengenakan jubah beludru biru tua dengan sulaman benang emas, simbol kekayaan yang luar biasa.",
+            "\"Lihatlah! Itulah Malin! Malin telah kembali sebagai saudagar kaya!\" seru seorang penduduk dengan penuh takjub.",
+            "Kabar kepulangan Malin Kundang segera menyebar ke seluruh pelosok desa. Kabar itu sampai ke telinga seorang wanita tua renta yang mengenakan pakaian compang-camping. Dengan langkah tertatih-tatih dan air mata kebahagiaan, ia bergegas menuju pelabuhan.",
+            "Sesampainya di depan Malin, wanita tua itu memanggil dengan suara bergetar, \"Malin... Malin anakku, ini Ibu!\" Namun, Malin yang kini kaya raya merasa malu mengakui wanita compang-camping itu di depan istrinya. Ia mendorong ibunya hingga jatuh dan berteriak, \"Pergi! Kau bukan ibuku!\"",
+            "Hati wanita tua itu hancur berkeping-keping. Sambil menangis dan menengadah ke langit, ia berdoa, \"Ya Tuhan, jika benar ia adalah Malin anakku, hukumlah ia atas kedurhakaannya!\" Seketika, langit yang tadinya cerah menjadi gelap gulita. Badai dahsyat menerjang kapal Malin Kundang. Perlahan-lahan, tubuh Malin mulai mengeras dan berubah menjadi batu, menjadi pengingat abadi bagi siapa pun yang berani mendurhakai orang tua."
+          ]
+        },
+        "en-US": {
+          "title": "Malin Kundang",
+          "chapter": "Chapter 1: The Merchant's Return",
+          "content": [
+            "The dock at Pantai Air Manis that afternoon was crowded with curious villagers. From afar, a magnificent ship with golden silk sails slowly approached the shore.",
+            "Upon arriving, a very luxuriously dressed young man stepped down gallantly, wearing a dark blue velvet robe with gold embroidery — a symbol of immense wealth.",
+            "\"Look! That's Malin! Malin has returned as a wealthy merchant!\" exclaimed a villager in amazement.",
+            "News of Malin Kundang's return spread throughout the village like wildfire, reaching an old woman dressed in rags. With staggering steps and tears of joy, she rushed to the harbor.",
+            "Arriving before Malin, the old woman called out, \"Malin... Malin my son, it's Mother!\" But the now-wealthy Malin felt ashamed and pushed his mother down, shouting, \"Go away! You are not my mother!\"",
+            "The old woman's heart shattered. Weeping and looking up at the sky, she prayed, \"Oh God, if he is truly my son, punish him for his disobedience!\" The clear sky instantly turned pitch black. A fierce storm struck the ship. Slowly, Malin's body began to harden and turn to stone — an eternal reminder to anyone who dares to disobey their parents."
           ]
         }
       }
@@ -41,34 +113,828 @@
         "dongeng",
         "cerdik"
       ],
-      "coverAsset": "https://raw.githubusercontent.com/rajaslucky89/dongeng/main/covers/timunmas.png",
+      "coverAsset": "assets/covers/timunmas.png",
       "translations": {
         "id-ID": {
           "title": "Timun Mas",
           "chapter": "Bab 1: Anak dari Mentimun Emas",
           "content": [
-            "Di sebuah desa yang tenang dan subur, hiduplah sepasang suami istri yang sangat mendambakan seorang anak. Setiap pagi dan petang mereka berdoa dengan penuh harap, namun bertahun-tahun berlalu tanpa jawaban. Hingga suatu malam yang gelap, sosok raksasa hijau bertubuh besar muncul di depan pintu mereka. Ia dikenal sebagai Buto Ijo, penguasa hutan yang ditakuti semua orang.",
-            "\"Aku tahu keinginanmu,\" kata Buto Ijo dengan suara berat menggelegar. \"Tanam benih mentimun ini, dan seorang anak akan lahir untukmu. Rawat ia baik-baik. Namun ketika ia berumur tujuh tahun, serahkan ia kepadaku sebagai gantinya.\" Pasangan itu gemetar, namun kerinduan akan anak mengalahkan rasa takut mereka. Mereka pun menerima benih itu dengan tangan yang bergetar.",
-            "Ajaib! Dari benih itu tumbuh sebatang mentimun yang berkilauan seperti emas di bawah sinar matahari. Ketika mentimun itu dipetik dan dibuka dengan lembut, di dalamnya terbaring seorang bayi perempuan yang cantik jelita, tertidur dengan senyum di bibirnya. Air mata kebahagiaan mengalir di pipi sang ibu. Mereka menamainya Timun Mas, dan gadis kecil itu tumbuh menjadi anak yang cerdas, lincah, dan penuh semangat.",
-            "Tahun demi tahun berlalu bagai angin. Ketika Timun Mas genap berusia tujuh tahun, Buto Ijo datang menagih janjinya dengan langkah yang menggetarkan bumi. Sang ibu yang panik segera berlari menemui seorang pertapa sakti yang tinggal di lereng gunung. Sang pertapa menatap perempuan itu dengan tenang, lalu menyerahkan empat bungkusan kecil kepada Timun Mas. \"Biji mentimun, jarum, garam, dan terasi. Lemparkan satu per satu jika raksasa itu mengejarmu. Percayalah, kau akan selamat,\" bisiknya.",
-            "Timun Mas berlari sekencang-kencangnya menembus lebatnya hutan. Buto Ijo mengaum keras dan mengejar dengan langkah raksasa yang menggoyang pepohonan. Timun Mas melempar bungkusan pertama—biji mentimun beterbangan ke udara. Seketika, hutan mentimun yang lebat dan rimbun tumbuh menghalangi jalan, membelit kaki Buto Ijo. Sang raksasa berteriak marah, namun dengan sekali sentak ia berhasil merobohkan semua tanaman itu.",
-            "Timun Mas melempar jarum—ratusan pohon bambu runcing bermunculan dari tanah, menusuk dan menggores kulit Buto Ijo yang tebal. Raksasa itu meraung kesakitan namun tidak berhenti. Timun Mas melempar garam—lautan luas tiba-tiba terhampar di antara mereka. Buto Ijo menderam, lalu terjun dan berenang dengan gagah melewati ombak-ombak besar itu.",
-            "Nafas Timun Mas mulai tersengal. Satu bungkusan terakhir masih ada di genggamannya. Dengan seluruh sisa tenaga, ia melempar terasi itu ke tanah di belakangnya. Dari bumi meluaplah lautan lumpur mendidih yang pekat dan bergolak. Buto Ijo yang berlari kencang tidak mampu menghentikan langkahnya. Ia terperosok masuk ke dalam lumpur yang dalam, meronta-ronta, dan perlahan tenggelam hingga hilang dari pandangan.",
-            "Timun Mas terduduk di rerumputan, napasnya berat namun hatinya ringan seperti bulu. Ia berlari pulang dan langsung masuk ke pelukan hangat ibunya. Keduanya menangis dan tertawa bersama. Sejak hari itu, Timun Mas dan kedua orang tuanya hidup dengan damai dan bahagia selamanya, bebas dari bayangan gelap sang raksasa yang tidak akan kembali lagi."
+            "Di sebuah desa yang tenang dan subur, hiduplah sepasang suami istri yang sangat mendambakan seorang anak. Hingga suatu malam yang gelap, sosok raksasa hijau bertubuh besar muncul di depan pintu mereka — Buto Ijo, penguasa hutan yang ditakuti semua orang.",
+            "\"Tanam benih mentimun ini, dan seorang anak akan lahir untukmu. Namun ketika ia berumur tujuh tahun, serahkan ia kepadaku,\" kata Buto Ijo. Pasangan itu gemetar, namun kerinduan akan anak mengalahkan rasa takut mereka.",
+            "Ajaib! Dari benih itu tumbuh mentimun berkilauan seperti emas. Ketika dibuka, di dalamnya terbaring seorang bayi perempuan yang cantik jelita. Mereka menamainya Timun Mas.",
+            "Ketika Timun Mas genap berusia tujuh tahun, Buto Ijo datang menagih janjinya. Sang ibu berlari menemui pertapa sakti yang menyerahkan empat bungkusan: biji mentimun, jarum, garam, dan terasi.",
+            "Timun Mas berlari sekencang-kencangnya menembus hutan. Ia melempar biji mentimun — hutan lebat tumbuh menghalangi. Melempar jarum — bambu runcing bermunculan. Melempar garam — lautan luas terhampar. Namun Buto Ijo terus mengejar.",
+            "Dengan sisa tenaga terakhir, Timun Mas melempar terasi. Dari bumi meluaplah lautan lumpur mendidih yang pekat. Buto Ijo terperosok masuk dan tenggelam hingga hilang. Timun Mas berlari pulang dan masuk ke pelukan hangat ibunya. Sejak hari itu, mereka hidup dengan damai dan bahagia selamanya."
           ]
         },
         "en-US": {
           "title": "Timun Mas",
           "chapter": "Chapter 1: Born of the Golden Cucumber",
           "content": [
-            "In a quiet and fertile village, there lived a husband and wife who longed deeply for a child. Every morning and evening they prayed with hopeful hearts, but years passed without answer. Then one dark night, a massive green giant appeared at their door. He was known as Buto Ijo, the fearsome ruler of the forest.",
-            "\"I know what you wish for,\" boomed Buto Ijo in a voice that shook the walls. \"Plant this cucumber seed, and a child will be born to you. Raise her well. But when she turns seven, you must give her to me in return.\" The couple trembled, yet their longing for a child overcame their fear, and with shaking hands they accepted the seed.",
-            "Miraculous! From the seed grew a cucumber that gleamed like gold in the sunlight. When it was gently opened, inside lay a beautiful baby girl, sleeping with a smile on her lips. Tears of joy streamed down the mother's cheeks. They named her Timun Mas, and she grew into a clever, lively, and spirited child.",
-            "Years flew by like the wind. When Timun Mas turned seven, Buto Ijo returned to claim his promise, his footsteps shaking the earth. Her panicked mother ran to a wise hermit on the mountain slope. The hermit calmly handed Timun Mas four small pouches. \"Cucumber seeds, needles, salt, and shrimp paste. Throw them one by one if the giant chases you. Trust in them, and you will be safe,\" he whispered.",
-            "Timun Mas sprinted as fast as she could through the dense jungle. Buto Ijo roared and gave chase with giant strides that toppled trees. Timun Mas threw the first pouch — cucumber seeds scattered through the air. Instantly, a thick tangle of cucumber vines erupted, ensnaring the giant's legs. He bellowed with rage and ripped through the vines with one mighty yank.",
-            "Timun Mas threw the needles — hundreds of sharp bamboo shoots burst from the ground, piercing and scratching Buto Ijo's thick skin. He howled in pain but did not stop. She threw the salt — a vast ocean suddenly spread between them. Buto Ijo snarled, then plunged in and swam powerfully through the crashing waves.",
-            "Timun Mas's breath came in gasps. One last pouch remained in her grip. With every ounce of strength she had left, she hurled the shrimp paste onto the ground behind her. From the earth surged a boiling, churning sea of thick mud. Buto Ijo, running at full speed, could not stop himself. He plunged into the deep mud, struggled violently, and slowly sank until he vanished from sight.",
-            "Timun Mas collapsed on the grass, her breath heavy but her heart light as a feather. She ran home and fell straight into her mother's warm embrace. They wept and laughed together. From that day on, Timun Mas and her parents lived in peace and happiness forever, free from the shadow of the giant who would never return."
+            "In a quiet village, a couple longed deeply for a child. One dark night, the fearsome giant Buto Ijo appeared at their door, offering a cucumber seed that would bring them a child — in exchange for delivering the child to him at age seven.",
+            "They planted the seed and a cucumber gleaming like gold grew. Inside lay a beautiful baby girl they named Timun Mas.",
+            "When she turned seven, Buto Ijo returned. Her panicked mother ran to a wise hermit who gave Timun Mas four pouches: cucumber seeds, needles, salt, and shrimp paste.",
+            "Timun Mas sprinted through the jungle. She threw the cucumber seeds — thick vines erupted and entangled the giant. She threw the needles — sharp bamboo shoots burst from the ground. She threw the salt — a vast ocean spread between them. Yet Buto Ijo swam through.",
+            "With her last pouch, Timun Mas hurled the shrimp paste. From the earth surged a boiling sea of thick mud. Buto Ijo plunged in, struggled, and slowly sank until he vanished.",
+            "Timun Mas collapsed on the grass, her breath heavy but her heart light. She ran home into her mother's warm embrace. From that day on, they lived in peace and happiness forever."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sangkuriang_001",
+      "ageRange": "7-12",
+      "tags": [
+        "legenda",
+        "tradisi"
+      ],
+      "coverAsset": "assets/covers/sangkuriang.png",
+      "translations": {
+        "id-ID": {
+          "title": "Sangkuriang",
+          "chapter": "Legenda Gunung Tangkuban Perahu",
+          "content": [
+            "Di tanah Sunda pada zaman dahulu, hiduplah seorang wanita cantik bernama Dayang Sumbi. Karena sebuah sumpah, ia menikahi seekor anjing sakti bernama Tumang. Dari pernikahan itu lahirlah seorang putra tampan bernama Sangkuriang.",
+            "Suatu hari dalam perburuan, Sangkuriang memerintahkan Tumang untuk mengejar rusa namun anjing itu menolak. Sangkuriang yang marah membunuh Tumang dan membawa dagingnya pulang kepada ibunya.",
+            "Dayang Sumbi mengetahui bahwa daging yang dimasak adalah daging suaminya sendiri. Dengan hati hancur, ia memukul kepala Sangkuriang dan mengusirnya pergi. Sangkuriang pun mengembara jauh selama bertahun-tahun.",
+            "Setelah bertahun-tahun, Sangkuriang kembali ke desanya dan bertemu dengan seorang wanita cantik yang tidak ia kenali. Ia langsung jatuh cinta. Wanita itu adalah Dayang Sumbi, ibunya sendiri, yang awet muda karena kesaktiannya.",
+            "Dayang Sumbi mengenali Sangkuriang dari bekas luka di kepalanya. Untuk mencegah pernikahan yang terlarang itu, ia mengajukan syarat mustahil: Sangkuriang harus membuat danau dan sebuah perahu besar dalam satu malam.",
+            "Sangkuriang bekerja keras bersama para makhluk gaib. Menjelang fajar, pekerjaan hampir selesai. Dayang Sumbi menebarkan kain bersulam emas ke arah timur, menciptakan cahaya menyerupai fajar palsu. Ayam-ayam berkokok dan para makhluk gaib berlarian. Sangkuriang yang murka menendang keras perahu yang hampir selesai itu. Perahu itu terbalik dan menjadi Gunung Tangkuban Perahu yang kita kenal hingga kini."
+          ]
+        },
+        "en-US": {
+          "title": "Sangkuriang",
+          "chapter": "The Legend of Tangkuban Perahu",
+          "content": [
+            "In ancient Sundanese land, there lived a beautiful woman named Dayang Sumbi. Through a vow, she married a magical dog named Tumang. From that union was born a handsome son named Sangkuriang.",
+            "One day during a hunt, Sangkuriang ordered Tumang to chase a deer but the dog refused. Furious, Sangkuriang killed Tumang and brought the meat home to his mother.",
+            "Dayang Sumbi realized the meat she had cooked was her own husband's flesh. Heartbroken, she struck Sangkuriang's head and drove him away. Sangkuriang wandered far for many years.",
+            "Years later, Sangkuriang returned to his village and met a beautiful woman he didn't recognize. He immediately fell in love. The woman was Dayang Sumbi herself, his own mother, kept youthful by her magical powers.",
+            "Dayang Sumbi recognized Sangkuriang by the scar on his head. To prevent the forbidden marriage, she set an impossible condition: Sangkuriang must build a lake and a large boat in a single night.",
+            "Sangkuriang worked furiously with supernatural beings. Near dawn, the work was almost done. Dayang Sumbi spread a gold-embroidered cloth toward the east, creating a false dawn. Roosters crowed and the supernatural beings fled. The enraged Sangkuriang kicked the nearly-finished boat with all his might. It flipped over and became the mountain we now know as Tangkuban Perahu."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rorojonggrang_001",
+      "ageRange": "7-12",
+      "tags": [
+        "legenda",
+        "tradisi"
+      ],
+      "coverAsset": "assets/covers/roro-jonggrang.png",
+      "translations": {
+        "id-ID": {
+          "title": "Roro Jonggrang",
+          "chapter": "Legenda Candi Prambanan",
+          "content": [
+            "Di Kerajaan Prambanan, hiduplah seorang putri cantik bernama Roro Jonggrang, putri Raja Boko. Kerajaan mereka ditaklukkan oleh Bandung Bondowoso, pangeran sakti dari kerajaan tetangga.",
+            "Bandung Bondowoso terpikat oleh kecantikan Roro Jonggrang dan melamarnya. Sang putri tidak mau menikahi orang yang telah membunuh ayahnya, namun ia tidak berani menolak terang-terangan.",
+            "\"Baiklah, aku bersedia menjadi istrimu, asalkan kau dapat membangun seribu candi dalam satu malam!\" ujar Roro Jonggrang, yakin permintaannya tidak mungkin dipenuhi.",
+            "Bandung Bondowoso menyanggupi. Dengan kesaktiannya, ia memanggil para jin dan roh halus. Candi demi candi berdiri dengan cepat. Menjelang dini hari, candi ke-999 sudah selesai.",
+            "Roro Jonggrang panik. Ia membangunkan para dayang dan memerintahkan mereka menumbuk padi seolah pagi telah tiba. Suara gong dipukul bertalu-talu, dan ayam-ayam berkokok menyambut fajar palsu itu.",
+            "Para jin mengira fajar telah datang dan melarikan diri. Bandung Bondowoso gagal menyelesaikan candi ke-1000. Ketika ia tahu bahwa Roro Jonggrang yang menghalanginya, ia murka dan mengutuk sang putri menjadi arca batu yang melengkapi candi ke-1000. Hingga kini, arca itu masih berdiri megah di Candi Prambanan."
+          ]
+        },
+        "en-US": {
+          "title": "Roro Jonggrang",
+          "chapter": "The Legend of Prambanan Temple",
+          "content": [
+            "In the Kingdom of Prambanan, there lived a beautiful princess named Roro Jonggrang, daughter of King Boko. Their kingdom was conquered by Bandung Bondowoso, a powerful prince from a neighboring realm.",
+            "Bandung Bondowoso was captivated by Roro Jonggrang's beauty and proposed to her. The princess did not want to marry the man who had killed her father, yet dared not refuse openly.",
+            "\"Very well, I will be your wife — as long as you can build a thousand temples in one night!\" said Roro Jonggrang, convinced her request was impossible.",
+            "Bandung Bondowoso agreed and summoned jinns and spirits with his powers. Temple after temple rose swiftly. By early morning, the 999th temple was complete.",
+            "Roro Jonggrang panicked. She woke her handmaidens and ordered them to pound rice as if morning had arrived. Gongs were struck and roosters crowed to welcome the false dawn.",
+            "The jinns thought daybreak had come and fled. Bandung Bondowoso failed to complete the 1000th temple. Discovering Roro Jonggrang's deception, he furiously cursed the princess, turning her into a stone statue to complete his thousandth temple. To this day, the statue stands majestically at Prambanan Temple."
+          ]
+        }
+      }
+    },
+    {
+      "id": "danautoba_001",
+      "ageRange": "6-12",
+      "tags": [
+        "legenda",
+        "tradisi"
+      ],
+      "coverAsset": "assets/covers/legenda-danau-toba.png",
+      "translations": {
+        "id-ID": {
+          "title": "Legenda Danau Toba",
+          "content": [
+            "Pada zaman dahulu kala, di dataran tinggi Sumatera Utara, hiduplah seorang petani muda yang rajin bernama Toba. Ia hidup seorang diri dan menggarap ladangnya setiap hari.",
+            "Suatu hari, saat memancing di sungai, ia mendapat seekor ikan yang sangat besar dan berwarna-warni. Ketika diangkat ke darat, tiba-tiba ikan itu berubah menjadi seorang wanita cantik jelita.",
+            "\"Aku adalah putri ikan yang terkena kutukan,\" kata wanita itu. \"Maukah kau menikahinya?\" Toba yang terpesona langsung menyetujui, dengan satu syarat: ia tidak boleh pernah mengungkit asal-usulnya sebagai ikan.",
+            "Mereka hidup bahagia dan dikaruniai seorang putra bernama Samosir. Namun Samosir tumbuh menjadi anak yang nakal. Suatu hari ia memakan semua bekal makanan yang seharusnya diantarkan ke ladang ayahnya.",
+            "Toba yang kelaparan dan marah kehilangan kendali. \"Dasar anak keturunan ikan!\" teriaknya tanpa berpikir panjang. Seketika, langit menjadi gelap gulita. Sang istri memeluk Samosir dan berbisik, \"Cepat, naiklah ke puncak bukit tertinggi!\"",
+            "Hujan lebat turun tak henti-hentinya. Air meluap dari segala penjuru dan menenggelamkan seluruh dataran. Toba pun tenggelam bersama ladangnya. Tempat berpijak Samosir menjadi sebuah pulau yang kini disebut Pulau Samosir, dan seluruh dataran yang tergenang itu menjadi Danau Toba yang indah."
+          ]
+        },
+        "en-US": {
+          "title": "The Legend of Lake Toba",
+          "content": [
+            "Long ago in the highlands of North Sumatra, there lived a hardworking young farmer named Toba who tended his fields alone every day.",
+            "One day, while fishing in the river, he caught an enormous colorful fish. When lifted to land, it suddenly transformed into a stunningly beautiful woman.",
+            "\"I am a fish princess under a curse,\" she said. \"Would you marry me?\" The enchanted Toba agreed immediately, with one condition: he must never reveal her origins as a fish.",
+            "They lived happily and were blessed with a son named Samosir. But Samosir grew into a mischievous child. One day he ate all the food meant to be delivered to his father in the fields.",
+            "Hungry and furious, Toba lost control. \"You child of a fish!\" he shouted without thinking. Instantly the sky turned pitch black. His wife embraced Samosir and whispered, \"Quickly, climb to the highest hilltop!\"",
+            "Heavy rain fell without stopping. Water rose from all directions and flooded the entire plain. Toba drowned along with his fields. The place where Samosir stood became an island now called Samosir Island, and the entire flooded plain became the beautiful Lake Toba."
+          ]
+        }
+      }
+    },
+    {
+      "id": "surabaya_001",
+      "ageRange": "6-12",
+      "tags": [
+        "legenda",
+        "tradisi"
+      ],
+      "coverAsset": "assets/covers/asal-usul-kota-surabaya.png",
+      "translations": {
+        "id-ID": {
+          "title": "Asal Usul Kota Surabaya",
+          "content": [
+            "Dahulu kala, di muara sungai yang bertemu dengan laut biru, dua makhluk perkasa sering bertarung memperebutkan kekuasaan wilayah tersebut. Mereka adalah Sura, seekor hiu raksasa yang menguasai lautan, dan Baya, seekor buaya besar yang menguasai daratan.",
+            "\"Wilayah ini milikku!\" aum Baya sambil menampar air dengan ekornya yang kuat. \"Tidak! Aku yang lebih kuat di sini!\" balas Sura dengan membuka mulutnya yang penuh gigi tajam.",
+            "Pertarungan mereka begitu dahsyat hingga membuat ombak menggulung tinggi dan bumi bergetar. Para makhluk laut dan darat bersembunyi ketakutan menyaksikan dua raksasa itu bertarung.",
+            "Akhirnya, keduanya sepakat berdamai dengan membagi wilayah secara adil. Sura menguasai air, Baya menguasai daratan. Namun suatu hari, Sura diam-diam memasuki sungai dan mulai memangsa ikan-ikan di sana.",
+            "Baya yang merasa wilayahnya dilanggar pun murka. \"Sungai ada di daratan, itu wilayahku!\" teriak Baya. Pertarungan besar pun terjadi kembali, lebih dahsyat dari sebelumnya.",
+            "Sura menggigit ekor Baya, dan Baya menghantam kepala Sura dengan sekuat tenaga. Akhirnya, keduanya sama-sama terluka dan pergi ke wilayahnya masing-masing. Tempat pertarungan mereka itulah yang kemudian berkembang menjadi kota yang ramai, diberi nama Surabaya — gabungan dari kata Sura dan Baya."
+          ]
+        },
+        "en-US": {
+          "title": "The Origin of Surabaya",
+          "content": [
+            "Long ago, at the mouth of a river meeting the blue sea, two mighty creatures often fought over dominion of that territory: Sura, a giant shark who ruled the ocean, and Baya, a large crocodile who ruled the land.",
+            "\"This territory is mine!\" roared Baya while slapping the water. \"No! I am stronger here!\" replied Sura, flashing his sharp teeth.",
+            "Their battle was so fierce it sent waves rolling high and the earth trembling. Sea and land creatures hid in fear watching the two giants clash.",
+            "Eventually they agreed to make peace, dividing territory fairly. Sura ruled the water, Baya ruled the land. But one day, Sura secretly entered the river and began preying on fish there.",
+            "Baya, feeling his territory violated, was furious. \"The river is on land — that's mine!\" A great battle erupted, fiercer than before.",
+            "Sura bit Baya's tail, and Baya struck Sura's head with all his strength. In the end, both wounded and weary, they retreated to their own territories. The place of their great battle eventually grew into a bustling city named Surabaya — a combination of the words Sura and Baya."
+          ]
+        }
+      }
+    },
+    {
+      "id": "batumenangis_001",
+      "ageRange": "7-12",
+      "tags": [
+        "legenda",
+        "moral"
+      ],
+      "coverAsset": "assets/covers/batu-menangis.png",
+      "translations": {
+        "id-ID": {
+          "title": "Legenda Batu Menangis",
+          "content": [
+            "Di sebuah desa terpencil di pedalaman Kalimantan, hiduplah seorang janda miskin bersama putrinya yang cantik jelita bernama Darmi. Sayangnya, kecantikan Darmi tidak disertai hati yang baik. Ia dikenal angkuh, manja, dan tidak pernah menghargai pengorbanan ibunya.",
+            "Sang ibu bekerja keras siang dan malam untuk memenuhi kebutuhan mereka. Namun Darmi tidak pernah mengucapkan terima kasih, bahkan sering memarahi ibunya karena pakaian mereka tidak semewah gadis-gadis lain.",
+            "Suatu hari, Darmi memaksa ibunya menemaninya pergi ke pasar kota yang jauh. Ibunya mengenakan pakaian lusuh dan kotor karena itulah satu-satunya yang ia miliki.",
+            "Di tengah jalan, mereka bertemu banyak orang. \"Siapa wanita tua itu bersamamu, Darmi?\" tanya seorang pemuda tampan yang lewat. Darmi merasa malu dan menjawab, \"Ia bukan ibuku! Ia hanya pembantuku yang miskin!\"",
+            "Sang ibu yang mendengar ucapan itu tersungkur dengan hati hancur. Air matanya mengalir deras sambil ia berdoa, \"Ya Allah, tunjukkanlah kepada putriku bahwa menghina orang tua adalah dosa yang amat besar.\"",
+            "Tiba-tiba, tubuh Darmi mulai terasa berat dan kaku. Perlahan-lahan dari ujung kakinya, kulitnya berubah menjadi batu. Darmi menjerit dan memohon ampun, \"Ibu, maafkan aku!\" Namun segalanya sudah terlambat. Darmi telah menjadi sebongkah batu besar. Dan dari batu itu, menetes air jernih tiada henti — seperti air mata penyesalan yang abadi."
+          ]
+        },
+        "en-US": {
+          "title": "The Crying Stone",
+          "content": [
+            "In a remote village deep in Kalimantan, there lived a poor widow with her beautiful daughter named Darmi. Unfortunately, Darmi's beauty was not accompanied by a kind heart. She was arrogant, spoiled, and never appreciated her mother's sacrifices.",
+            "Her mother worked hard day and night to meet their needs. But Darmi never said thank you, and often scolded her mother because their clothes were not as fine as other girls'.",
+            "One day, Darmi forced her mother to accompany her to the distant city market. Her mother wore worn and dirty clothes — the only ones she had.",
+            "Along the way, a handsome young man asked, \"Who is that old woman with you, Darmi?\" Ashamed, Darmi immediately answered, \"She is not my mother! She is just my poor servant!\"",
+            "Her mother, hearing those words, collapsed with a broken heart. Tears streaming down her cheeks, she prayed, \"Oh God, show my daughter that insulting one's parents is a grievous sin.\"",
+            "Suddenly, Darmi's body began to feel heavy and stiff. Slowly from her feet, her skin turned to stone. Darmi screamed in fear and begged for forgiveness. \"Mother, forgive me!\" But it was too late. Darmi had completely turned into a large stone. And from that stone, clear water drips endlessly — like eternal tears of regret."
+          ]
+        }
+      }
+    },
+    {
+      "id": "putritujuh_001",
+      "ageRange": "7-12",
+      "tags": [
+        "legenda",
+        "petualangan"
+      ],
+      "coverAsset": "assets/covers/putri-tujuh.png",
+      "translations": {
+        "id-ID": {
+          "title": "Putri Tujuh",
+          "content": [
+            "Di negeri Riau pada zaman dahulu, hiduplah seorang raja yang mempunyai tujuh orang putri yang cantik-cantik. Yang paling cantik adalah si bungsu, Mayang Sari, yang juga dikenal memiliki hati paling mulia.",
+            "Suatu hari, seekor naga jahat turun dari gunung dan mulai meneror penduduk desa. Naga itu meminta satu gadis perawan setiap bulannya sebagai persembahan, atau ia akan membakar seluruh kerajaan.",
+            "Raja merasa sangat berduka. Para penasihat kerajaan mencari cara untuk mengalahkan sang naga, namun tidak ada yang berhasil.",
+            "Ketika Mayang Sari mendengar penderitaan rakyatnya, ia mengajukan diri. \"Biarlah aku yang menghadapi naga itu, Ayahanda. Mungkin Tuhan akan memberiku kekuatan.\" Sang raja menangis namun tidak bisa mencegah tekad putrinya.",
+            "Mayang Sari berdoa semalaman dengan sungguh-sungguh. Keesokan harinya, ia menghadap naga sendirian. Dengan suara tenang namun penuh keyakinan, ia berbicara kepada sang naga. Keberanian dan ketulusannya menyentuh hati naga yang sesungguhnya sedang menderita karena dikutuk oleh penyihir jahat.",
+            "Mayang Sari memohon kepada Tuhan, dan keajaiban terjadi. Kutukan itu terlepas, dan naga pun berubah kembali menjadi seorang pangeran tampan. Keduanya menikah dan kerajaan pun hidup damai. Tempat pertapaan Mayang Sari kini dikenal sebagai Putri Tujuh, sebuah nama yang dikenang oleh seluruh masyarakat Riau."
+          ]
+        },
+        "en-US": {
+          "title": "The Seven Princesses",
+          "content": [
+            "In the land of Riau in ancient times, there lived a king with seven beautiful daughters. The most beautiful was the youngest, Mayang Sari, who was also known for having the noblest heart.",
+            "One day, an evil dragon descended from the mountain and began terrorizing the villages. The dragon demanded one virgin girl each month as an offering, or it would burn the entire kingdom.",
+            "The king was deeply saddened. The royal advisors sought ways to defeat the dragon, but none succeeded.",
+            "When Mayang Sari heard of her people's suffering, she volunteered. \"Let me face the dragon, Father. Perhaps God will grant me strength.\" The king wept but could not stop his daughter's resolve.",
+            "Mayang Sari prayed earnestly through the night. The next day, she faced the dragon alone. With calm yet confident words, she spoke to the dragon. Her courage and sincerity touched the heart of the dragon, who was actually suffering under a sorcerer's curse.",
+            "Mayang Sari prayed, and a miracle occurred. The curse was broken and the dragon transformed back into a handsome prince. They married and the kingdom lived in peace. The place where Mayang Sari meditated is now known as Putri Tujuh, a name remembered by all the people of Riau."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sipitung_001",
+      "ageRange": "8-12",
+      "tags": [
+        "legenda",
+        "pahlawan"
+      ],
+      "coverAsset": "assets/covers/si-pitung.png",
+      "translations": {
+        "id-ID": {
+          "title": "Si Pitung",
+          "content": [
+            "Di Batavia pada abad ke-19, ketika tanah Betawi dijajah oleh Belanda, hiduplah seorang pemuda pemberani bernama Pitung. Ia lahir dari keluarga sederhana di Rawa Belong dan dibesarkan dengan nilai-nilai keislaman yang kuat oleh ayah dan gurunya, Haji Naipin.",
+            "Pitung tumbuh menjadi pemuda yang kuat dan mahir dalam ilmu silat. Namun yang membuat namanya harum bukan kekuatannya, melainkan keberaniannya membela rakyat kecil yang tertindas oleh penjajah Belanda dan para tuan tanah.",
+            "\"Bajak laut yang mencuri dari yang kaya untuk diberikan kepada yang miskin,\" begitulah orang-orang menyebutnya dengan penuh kagum. Pitung merampok gudang-gudang penjajah dan membagikan hasilnya kepada rakyat yang kelaparan.",
+            "Pihak Belanda, dipimpin oleh Schout Hinne, sangat geram. Mereka menawarkan hadiah besar bagi siapa pun yang bisa menangkap Pitung. Namun rakyat yang mencintai Pitung tidak ada yang mau berkhianat.",
+            "Pitung seperti ikan di air — ia bergerak bebas karena dilindungi oleh seluruh rakyat Betawi. Berkali-kali Belanda mencoba menangkapnya, namun selalu gagal karena kecerdikan dan kesaktian Pitung.",
+            "Namun akhirnya, seorang pengkhianat memberitahu rahasia Pitung kepada Belanda. Pitung dikepung dan meskipun berusaha melawan, ia tidak bisa menghindar dari peluru Belanda. Ia gugur sebagai pahlawan rakyat. Hingga kini, nama Si Pitung dikenang sebagai simbol perlawanan dan keberanian rakyat Betawi."
+          ]
+        },
+        "en-US": {
+          "title": "Si Pitung",
+          "content": [
+            "In Batavia in the 19th century, when the Betawi land was under Dutch colonization, there lived a brave young man named Pitung. Born into a humble family in Rawa Belong, he was raised with strong Islamic values by his father and teacher, Haji Naipin.",
+            "Pitung grew into a strong young man skilled in silat martial arts. But what made his name famous was not his strength, but his courage in defending the oppressed people against Dutch colonizers and ruthless landlords.",
+            "\"A hero who steals from the rich to give to the poor,\" people called him with admiration. Pitung raided the colonizers' warehouses and distributed the proceeds to the starving people.",
+            "The Dutch, led by Schout Hinne, were furious. They offered a large reward for anyone who could capture Pitung. But the people who loved him would not betray him.",
+            "Pitung moved freely, protected by all the Betawi people. Time and again the Dutch tried to capture him, but always failed because of his cleverness and skill.",
+            "Eventually, a traitor revealed Pitung's secret to the Dutch. He was surrounded and, though he fought back bravely, could not escape Dutch bullets. He fell as a people's hero. To this day, the name Si Pitung is remembered as a symbol of Betawi courage and resistance."
+          ]
+        }
+      }
+    },
+    {
+      "id": "andelumut_001",
+      "ageRange": "6-10",
+      "tags": [
+        "dongeng",
+        "cinta"
+      ],
+      "coverAsset": "assets/covers/ande-ande-lumut.png",
+      "translations": {
+        "id-ID": {
+          "title": "Ande-Ande Lumut",
+          "content": [
+            "Dahulu kala di sebuah kerajaan Jawa, hiduplah seorang pangeran tampan yang menyamar sebagai pemuda biasa bernama Ande-Ande Lumut. Ia tinggal di tepi sungai dan dikenal oleh penduduk sekitar sebagai anak muda yang baik hati.",
+            "Berita tentang Ande-Ande Lumut yang tampan menyebar ke seluruh desa. Banyak gadis yang ingin melamarnya, termasuk tiga putri janda kaya yang cantik dan sombong: Klenting Abang, Klenting Ijo, dan Klenting Biru.",
+            "Untuk menyeberangi sungai menuju rumah Ande-Ande Lumut, para gadis harus melewati jembatan yang dijaga yuyu kangkang raksasa — kepiting besar bercapit kuat. Si yuyu mau membawa mereka menyeberang dengan satu syarat: mereka harus mau diciumnya terlebih dahulu.",
+            "Ketiga putri janda itu, demi mendapatkan Ande-Ande Lumut, menyetujui syarat tersebut. Namun Ande-Ande Lumut menolak mereka semua. \"Maafkan aku, aku tidak bisa menikahi kalian.\"",
+            "Di belakang ketiga gadis itu, datanglah seorang gadis sederhana berpakaian lusuh bernama Klenting Kuning, yang sebenarnya adalah putri bangsawan yang menyamar. Klenting Kuning menolak dicium oleh si yuyu dan memilih mencari jalan lain untuk menyeberangi sungai.",
+            "Ande-Ande Lumut yang menyaksikan kejujuran dan ketulusan Klenting Kuning segera memilihnya. \"Gadis inilah yang akan menjadi istriku,\" katanya dengan yakin. Ternyata, Klenting Kuning adalah seorang putri bangsawan, sama seperti Ande-Ande Lumut. Keduanya pun menikah dan hidup bahagia selamanya."
+          ]
+        },
+        "en-US": {
+          "title": "Ande-Ande Lumut",
+          "content": [
+            "Long ago in a Javanese kingdom, there lived a handsome prince who disguised himself as an ordinary young man named Ande-Ande Lumut. He lived by the riverside and was known by locals as a kind and polite young man.",
+            "News of the handsome Ande-Ande Lumut spread to all villages. Many girls wanted to propose to him, including three daughters of a rich but arrogant widow: Klenting Abang, Klenting Ijo, and Klenting Biru.",
+            "To cross the river to his home, the girls had to pass a bridge guarded by a giant crab called yuyu kangkang. The crab would carry them across with one condition: they must let him kiss them first.",
+            "The widow's three daughters, desperate to win Ande-Ande Lumut, agreed. But Ande-Ande Lumut rejected them all, saying, \"Forgive me, I cannot marry any of you.\"",
+            "Behind the three girls came a simply dressed girl in worn clothing named Klenting Kuning — actually a disguised noblewoman. Klenting Kuning refused the crab's kiss and chose to find another way across the river.",
+            "Witnessing Klenting Kuning's honesty and sincerity, Ande-Ande Lumut immediately chose her. \"This is the girl who will be my wife.\" It turned out Klenting Kuning was a noblewoman, just like Ande-Ande Lumut himself. They married and lived happily ever after."
+          ]
+        }
+      }
+    },
+    {
+      "id": "lutungkasarung_001",
+      "ageRange": "7-12",
+      "tags": [
+        "legenda",
+        "petualangan"
+      ],
+      "coverAsset": "assets/covers/lutung-kasarung.png",
+      "translations": {
+        "id-ID": {
+          "title": "Lutung Kasarung",
+          "content": [
+            "Di Kerajaan Pasir Batang di tanah Sunda, hiduplah seorang putri cantik bernama Purbasari Ayu Wangi. Ia adalah putri bungsu dari tujuh bersaudara dan dikenal sebagai gadis yang rendah hati dan baik hati. Namun kakaknya yang tertua, Purbararang, sangat iri kepadanya.",
+            "Dengan fitnah dan tipu daya, Purbararang berhasil meyakinkan ayah mereka bahwa Purbasari telah berbuat salah. Purbasari pun diasingkan ke dalam hutan belantara.",
+            "Di dalam hutan, Purbasari berteman dengan seekor lutung yang misterius. Lutung itu ternyata adalah Sanghyang Guruminda, seorang dewa yang dikutuk dan diturunkan ke bumi dalam wujud seekor kera.",
+            "\"Jangan takut, aku akan melindungimu,\" kata Lutung Kasarung kepada Purbasari. Ia membantu Purbasari menemukan makanan, membangun tempat tinggal, dan memberikan obat untuk menyembuhkan penyakit kulit yang diderita Purbasari akibat kutukan.",
+            "Ketika Purbararang mengetahui Purbasari masih hidup dan telah sembuh, ia datang menantang. \"Siapa yang memiliki tunangan paling tampan, dialah yang menang!\" Purbararang yakin Purbasari tidak punya tunangan.",
+            "Namun Lutung Kasarung maju ke depan dan dengan seizin Sang Pencipta, kutukan atas dirinya pun terlepas. Ia berubah kembali menjadi seorang pangeran yang tampan dan bercahaya. Purbasari pun kembali ke istana sebagai ratu yang penuh kemuliaan."
+          ]
+        },
+        "en-US": {
+          "title": "Lutung Kasarung",
+          "content": [
+            "In the Kingdom of Pasir Batang in Sundanese land, there lived a beautiful princess named Purbasari Ayu Wangi. She was the youngest of seven siblings, known as humble and kind. But her eldest sister, Purbararang, was deeply envious of her.",
+            "Through slander and deceit, Purbararang convinced their father that Purbasari had done wrong. Purbasari was exiled to the deep forest.",
+            "In the forest, Purbasari befriended a mysterious lutung monkey. The lutung was actually Sanghyang Guruminda, a god cursed and sent to earth in the form of an ape.",
+            "\"Don't be afraid, I will protect you,\" said Lutung Kasarung to Purbasari. He helped her find food, build shelter, and provided medicine to cure the skin disease she suffered from the curse.",
+            "When Purbararang learned Purbasari had recovered, she came with a challenge. \"Whoever has the most handsome fiancé wins!\" She was certain Purbasari had none.",
+            "But Lutung Kasarung stepped forward and with the Creator's blessing, the curse was lifted. He transformed back into a handsome, radiant prince. Purbasari returned to the palace as a glorious queen."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cindelaras_001",
+      "ageRange": "6-10",
+      "tags": [
+        "dongeng",
+        "petualangan"
+      ],
+      "coverAsset": "assets/covers/cindelaras.png",
+      "translations": {
+        "id-ID": {
+          "title": "Cindelaras",
+          "content": [
+            "Dahulu di Kerajaan Jenggala, seorang permaisuri yang baik hati dibuang ke hutan oleh fitnah selir jahat. Di dalam hutan, sang permaisuri melahirkan seorang putra yang tampan dan cerdas, yang diberi nama Cindelaras.",
+            "Cindelaras tumbuh besar di hutan bersama ibunya, dirawat oleh binatang-binatang hutan yang bersahabat. Suatu hari, seekor ayam jantan misterius yang cantik datang dari langit dan menjadi peliharaannya. Ayam itu memiliki kekuatan luar biasa.",
+            "Setiap pagi, ayam itu berkokok dengan kata-kata yang mengungkap rahasia: \"Jago saya tidak ada yang menang, rumah saya di tengah hutan, ayah saya Raja Jenggala!\" Cindelaras baru menyadari siapa dirinya yang sesungguhnya.",
+            "Berita tentang ayam jago Cindelaras yang tidak pernah kalah tersebar hingga ke istana. Raja Jenggala sendiri mengundang Cindelaras untuk menguji kebenaran kabar itu.",
+            "\"Jika ayammu kalah, kau harus meninggalkan kerajaan ini. Namun jika ayamku yang kalah, setengah kerajaanku menjadi milikmu,\" kata Raja. Dalam pertarungan yang menegangkan, ayam Cindelaras menang telak.",
+            "Sang Raja terpesona oleh keberanian Cindelaras. Melalui penyelidikan mendalam, terungkaplah bahwa Cindelaras adalah putra kandungnya sendiri. Permaisuri yang dibuang dipanggil kembali ke istana, selir jahat dihukum setimpal, dan Cindelaras menjadi pewaris tahta kerajaan."
+          ]
+        },
+        "en-US": {
+          "title": "Cindelaras",
+          "content": [
+            "Long ago in the Kingdom of Jenggala, a kind queen was exiled to the forest through an evil concubine's slander. In the forest, she gave birth to a handsome and clever son named Cindelaras.",
+            "Cindelaras grew up in the forest with his mother, cared for by friendly forest animals. One day, a mysterious beautiful rooster descended from the sky and became his pet. The rooster had extraordinary power.",
+            "Every morning the rooster crowed words that revealed a great secret: \"My rooster never loses, my home is in the forest, my father is the King of Jenggala!\" Cindelaras finally understood who he truly was.",
+            "News of Cindelaras's undefeated rooster spread all the way to the palace. The King of Jenggala himself invited Cindelaras to test the truth.",
+            "\"If your rooster loses, you must leave the kingdom. But if mine loses, half my kingdom is yours,\" said the King. In a tense battle, Cindelaras's rooster won decisively.",
+            "The King was captivated by Cindelaras's bravery. Through thorough investigation, it was revealed that Cindelaras was his own son. The exiled queen was called back to the palace, the evil concubine was punished, and Cindelaras became the heir to the throne."
+          ]
+        }
+      }
+    },
+    {
+      "id": "jokotarub_001",
+      "ageRange": "8-12",
+      "tags": [
+        "legenda",
+        "cinta"
+      ],
+      "coverAsset": "assets/covers/joko-tarub.png",
+      "translations": {
+        "id-ID": {
+          "title": "Joko Tarub",
+          "content": [
+            "Di sebuah desa di Jawa, hiduplah seorang pemuda yatim piatu bernama Joko Tarub yang terkenal dengan kecerdikannya.",
+            "Suatu malam yang indah saat bulan purnama, Joko Tarub mengintip di dekat danau tersembunyi di hutan. Ia menyaksikan tujuh bidadari dari kahyangan turun untuk mandi. Keindahan mereka seperti cahaya bulan yang memenuhi seluruh danau.",
+            "Dengan diam-diam, Joko Tarub mengambil selendang milik bidadari yang paling cantik, bernama Nawangwulan. Ketika para bidadari hendak kembali ke kahyangan, Nawangwulan tidak bisa terbang karena selendangnya hilang.",
+            "Joko Tarub pura-pura tidak tahu dan menawarkan bantuan. Nawangwulan tidak punya pilihan selain tinggal bersamanya. Mereka pun menikah dan dikaruniai seorang putri cantik bernama Nawangsih.",
+            "Selama bertahun-tahun, Nawangwulan menyimpan rasa rindu pada kahyangannya. Suatu hari, saat membuka gudang yang terlarang, ia menemukan selendangnya yang disembunyikan suaminya. Dengan hati berat, ia harus kembali ke kahyangan, meninggalkan putrinya yang masih kecil.",
+            "\"Jika Nawangsih menangis di malam hari, nyanyikan lagu ini dan ayunkan selendang ini, maka aku akan datang untuk menenangkannya,\" pesan Nawangwulan kepada Joko Tarub sebelum terbang ke langit. Kisah ini mengajarkan bahwa cinta yang dibangun di atas kebohongan tidak akan pernah abadi."
+          ]
+        },
+        "en-US": {
+          "title": "Joko Tarub",
+          "content": [
+            "In a Javanese village, there lived an orphan youth named Joko Tarub, known for his cleverness.",
+            "One beautiful night under a full moon, Joko Tarub peeked near a hidden forest lake. He witnessed seven celestial nymphs descend from the heavens to bathe. Their beauty was like moonlight filling the entire lake.",
+            "Secretly, Joko Tarub took the shawl belonging to the most beautiful nymph, Nawangwulan. Unable to fly without her shawl, Nawangwulan had no choice but to stay.",
+            "Joko Tarub pretended not to know anything and offered help. They married and were blessed with a beautiful daughter named Nawangsih.",
+            "For many years, Nawangwulan harbored deep longing for the heavens. One day, opening a forbidden storehouse, she found her shawl hidden by her husband. With a heavy heart, she had to return, leaving her young daughter behind.",
+            "\"If Nawangsih cries at night, sing this song and wave this shawl, and I will come to calm her,\" Nawangwulan told Joko Tarub before flying back to the sky. This story teaches that love built on deception will never last."
+          ]
+        }
+      }
+    },
+    {
+      "id": "telagawarna_001",
+      "ageRange": "6-12",
+      "tags": [
+        "legenda",
+        "moral"
+      ],
+      "coverAsset": "assets/covers/telaga-warna.png",
+      "translations": {
+        "id-ID": {
+          "title": "Telaga Warna",
+          "content": [
+            "Di kaki Gunung Gede di Jawa Barat, ada sebuah danau indah yang airnya berwarna-warni seperti pelangi. Warna-warna ajaib itu konon berasal dari kisah sedih tentang seorang putri raja.",
+            "Alkisah, Raja Prabu Suwartalaya dan permaisurinya sangat berduka karena tidak memiliki anak. Setelah bertahun-tahun berdoa, akhirnya mereka dikaruniai seorang putri cantik jelita. Sayangnya, sang putri tumbuh menjadi gadis yang sangat manja dan tidak pernah merasa puas.",
+            "Pada hari ulang tahunnya yang ke-17, seluruh rakyat bergembira dan memberikan hadiah terbaik. Raja memberikan hadiah paling spesial: sebuah kalung indah dari permata-permata yang dikumpulkan dari seluruh penjuru kerajaan.",
+            "Namun sang putri melempar kalung itu ke tanah. \"Aku tidak suka! Ini jelek!\" teriaknya sambil menginjak-injak kalung berharga itu. Seluruh hadirin terdiam terkejut. Sang permaisuri yang malu segera berlari keluar sambil menangis.",
+            "Air mata sang permaisuri jatuh ke tanah, dan dari tanah itu memancar air yang jernih, mengalir deras membentuk danau. Pecahan permata kalung yang diinjak sang putri mewarnai air danau menjadi merah, biru, kuning, dan hijau yang indah.",
+            "Sang putri yang menyesal berlari mengejar ibunya, namun ibunya sudah menghilang. Ia menangis terisak di tepi danau. Sejak saat itu, danau itu disebut Telaga Warna — pengingat abadi tentang pentingnya menghargai cinta dan pengorbanan orang tua."
+          ]
+        },
+        "en-US": {
+          "title": "Telaga Warna",
+          "content": [
+            "At the foot of Mount Gede in West Java, there is a beautiful lake whose water shimmers with rainbow colors. These magical colors come from a sad story about a king's daughter.",
+            "King Prabu Suwartalaya and his queen were deeply saddened by their childlessness. After years of prayer, they were finally blessed with a stunningly beautiful daughter. Unfortunately, she grew into a very spoiled girl who was never satisfied.",
+            "On her 17th birthday, all the kingdom rejoiced and gave their finest gifts. The king presented the most special gift: a beautiful necklace made from jewels gathered from across the entire kingdom.",
+            "But the princess threw the necklace to the ground. \"I don't like it! It's ugly!\" she shouted, trampling on the precious necklace. Everyone fell silent in shock. The humiliated queen rushed outside in tears.",
+            "The queen's tears fell to the ground and miraculously, clear water sprang forth, flowing powerfully to form a lake. The shattered jewels colored the lake's water into beautiful reds, blues, yellows, and greens.",
+            "The remorseful princess ran after her mother, but her mother had disappeared. She wept at the lakeside. From that day, the lake was called Telaga Warna — an eternal reminder of the importance of appreciating parental love and sacrifice."
+          ]
+        }
+      }
+    },
+    {
+      "id": "selatbali_001",
+      "ageRange": "7-12",
+      "tags": [
+        "legenda",
+        "tradisi"
+      ],
+      "coverAsset": "assets/covers/asal-mula-selat-bali.png",
+      "translations": {
+        "id-ID": {
+          "title": "Asal Mula Selat Bali",
+          "content": [
+            "Pada masa lampau, Pulau Bali dan Pulau Jawa masih menyatu sebagai satu daratan yang luas. Di sana hiduplah seorang brahmana sakti bernama Mpu Sidi Mantra yang memiliki putra kesayangan bernama Manik Angkeran.",
+            "Manik Angkeran adalah pemuda tampan dan berbakat, namun memiliki satu kelemahan besar: ia gemar berjudi. Kebiasaan buruk itu membuatnya terjerumus dalam hutang yang sangat besar.",
+            "Dalam keputusasaan, Manik Angkeran memohon kepada ayahnya. Sang ayah mendatangi Naga Besukih di Gunung Agung Bali untuk memohon bantuan. Naga yang baik hati mengabulkan permohonan dan memberikan harta yang cukup.",
+            "Namun Manik Angkeran tidak jera. Ia berjudi lagi dan menghabiskan semua harta. Kali ini ia sendiri mendatangi Naga Besukih. Ketika naga berbalik, Manik Angkeran tergoda oleh kilauan permata di ekor sang naga dan memotongnya.",
+            "Naga Besukih murka dan membakar Manik Angkeran. Mpu Sidi Mantra yang sedih segera datang dan memohon naga untuk menghidupkan kembali anaknya.",
+            "Setelah anaknya hidup kembali, Mpu Sidi Mantra memutuskan untuk memisahkan diri dari putranya. Ia menggoreskan tongkatnya di tanah, dan dari goresan itu mengalir air yang deras, membelah daratan dan menciptakan selat yang kini kita kenal sebagai Selat Bali."
+          ]
+        },
+        "en-US": {
+          "title": "The Origin of the Bali Strait",
+          "content": [
+            "In ancient times, the islands of Bali and Java were still joined as one vast landmass. There lived a powerful brahmin named Mpu Sidi Mantra who had a beloved son named Manik Angkeran.",
+            "Manik Angkeran was handsome and talented, but had one great weakness: he loved to gamble. This bad habit plunged him into enormous debt.",
+            "In desperation, Manik Angkeran begged his father for help. His father visited the great dragon Naga Besukih on Mount Agung in Bali. The kind dragon granted the request and provided sufficient wealth.",
+            "But Manik Angkeran did not learn. He gambled again and spent everything. This time he visited Naga Besukih himself. When the dragon turned around, Manik Angkeran was tempted by the gleaming jewels on the dragon's tail and cut it off.",
+            "Naga Besukih was furious and burned Manik Angkeran. The grieving Mpu Sidi Mantra rushed over and begged the dragon to revive his son.",
+            "After his son was restored to life, Mpu Sidi Mantra decided to separate himself permanently from his son. He drew his staff across the ground, and from that line, water flowed powerfully, splitting the landmass and creating the strait we now know as the Bali Strait."
+          ]
+        }
+      }
+    },
+    {
+      "id": "putrimandalika_001",
+      "ageRange": "8-12",
+      "tags": [
+        "legenda",
+        "pengorbanan"
+      ],
+      "coverAsset": "assets/covers/putri-mandalika.png",
+      "translations": {
+        "id-ID": {
+          "title": "Putri Mandalika",
+          "content": [
+            "Di Kerajaan Tonjang Beru di Pulau Lombok, hiduplah seorang putri yang luar biasa cantiknya bernama Mandalika. Kecantikannya seperti bulan purnama yang menyinari seluruh negeri, dan kebaikan hatinya dikenal oleh seluruh rakyat.",
+            "Kecantikan Putri Mandalika menarik perhatian para pangeran dan raja dari seluruh penjuru negeri. Berdatanganlah mereka melamar sang putri, membawa rombongan pengawal dan hadiah-hadiah mewah.",
+            "Putri Mandalika bingung dan sedih. Jika ia memilih satu orang, yang lain pasti akan kecewa dan mungkin akan berperang. Ia tidak ingin darah mengalir karena dirinya. Malam demi malam ia berdoa memohon petunjuk.",
+            "Pada suatu malam, dengan pikiran yang telah bulat, Putri Mandalika mengumumkan kepada semua pelamar bahwa ia akan memberikan jawaban keesokan harinya di tepi pantai saat fajar.",
+            "Keesokan paginya, seluruh rakyat dan para pelamar berkumpul di pantai. Putri Mandalika berjalan perlahan menuju deburan ombak. Dengan senyum penuh ketenangan, ia berkata, \"Aku akan menjadi milik kalian semua, milik seluruh rakyatku.\" Lalu ia melompat ke dalam deburan ombak dan menghilang.",
+            "Yang muncul kemudian adalah ribuan cacing laut berwarna-warni yang indah, yang dikenal sebagai nyale. Rakyat percaya bahwa itulah penjelmaan sang putri. Setiap tahun, rakyat Lombok merayakan festival Bau Nyale untuk mengenang pengorbanan Putri Mandalika."
+          ]
+        },
+        "en-US": {
+          "title": "Princess Mandalika",
+          "content": [
+            "In the Kingdom of Tonjang Beru on the island of Lombok, there lived an extraordinarily beautiful princess named Mandalika. Her beauty was like the full moon lighting the entire land, and the kindness of her heart was known by all.",
+            "Princess Mandalika's beauty attracted kings and princes from across the land. They came to propose, bringing grand retinues and lavish gifts.",
+            "The princess was confused and sad. If she chose one suitor, the others would surely be disappointed and might go to war over her. She did not want blood shed because of her. Night after night she prayed for guidance.",
+            "One evening, her mind made up, Princess Mandalika announced to all suitors that she would give her answer the following morning at the seashore at dawn.",
+            "The next morning, everyone gathered at the beach. Princess Mandalika walked slowly toward the crashing waves. With a serene smile, she said, \"I will belong to all of you, to all my people.\" Then she leapt into the waves and disappeared.",
+            "What appeared instead were thousands of colorful, beautiful sea worms known as nyale. The people believe these were the princess's incarnation. Every year, the people of Lombok celebrate the Bau Nyale festival to commemorate Princess Mandalika's selfless sacrifice."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tangkubanperahu_001",
+      "ageRange": "7-12",
+      "tags": [
+        "legenda",
+        "tradisi"
+      ],
+      "coverAsset": "assets/covers/legenda-tangkuban-perahu.png",
+      "translations": {
+        "id-ID": {
+          "title": "Legenda Tangkuban Perahu",
+          "content": [
+            "Gunung Tangkuban Perahu yang megah berdiri di utara Bandung, Jawa Barat. Bentuknya menyerupai perahu terbalik menyimpan legenda yang sangat terkenal dari tanah Sunda.",
+            "Dikisahkan bahwa Dayang Sumbi adalah wanita cantik yang karena sebuah sumpah menikahi anjing sakti bernama Tumang. Dari pernikahan itu lahirlah putra bernama Sangkuriang yang tumbuh menjadi pemuda kuat dan pandai berburu.",
+            "Namun Sangkuriang keliru membunuh Tumang yang tak lain adalah ayah kandungnya. Dayang Sumbi yang marah memukulnya dan mengusirnya pergi. Sangkuriang pun mengembara bertahun-tahun lamanya.",
+            "Setelah bertahun-tahun, Sangkuriang kembali ke desanya dan menemukan wanita cantik yang ternyata adalah Dayang Sumbi, ibunya sendiri yang tetap muda berkat kesaktiannya. Sangkuriang langsung jatuh cinta dan ingin menikahinya.",
+            "Dayang Sumbi mengenali bekas luka di kepala Sangkuriang. Untuk mencegah pernikahan terlarang itu, ia mengajukan syarat mustahil: bangun sebuah danau dan sebuah perahu besar dalam satu malam.",
+            "Sangkuriang hampir berhasil dengan bantuan makhluk gaib. Namun Dayang Sumbi menciptakan fajar palsu dengan menebarkan kain bersinar ke timur. Ayam berkokok, para makhluk gaib melarikan diri. Sangkuriang yang murka menendang perahunya hingga terbalik dan berubah menjadi Gunung Tangkuban Perahu."
+          ]
+        },
+        "en-US": {
+          "title": "The Legend of Tangkuban Perahu",
+          "content": [
+            "The majestic Mount Tangkuban Perahu stands north of Bandung, West Java. Its shape resembling an upturned boat holds a very famous legend from Sundanese land.",
+            "It is told that Dayang Sumbi was a beautiful woman who, through a vow, married a magical dog named Tumang. From that union was born Sangkuriang, who grew into a strong young man skilled at hunting.",
+            "But Sangkuriang mistakenly killed Tumang — his own biological father. Dayang Sumbi, furious, struck his head and drove him away. Sangkuriang wandered far for many years.",
+            "Years later, Sangkuriang returned and found a beautiful woman — it was Dayang Sumbi herself, his own mother, kept youthful by her powers. He fell in love and wanted to marry her.",
+            "Dayang Sumbi recognized the scar on his head. To prevent the forbidden marriage, she set an impossible condition: build a lake and a large boat in a single night.",
+            "Sangkuriang nearly succeeded with supernatural help. But Dayang Sumbi created a false dawn by spreading a glowing cloth toward the east. Roosters crowed, the supernatural beings fled. The enraged Sangkuriang kicked his nearly-finished boat, and it flipped over to become the mountain now known as Tangkuban Perahu."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sikelingking_001",
+      "ageRange": "5-10",
+      "tags": [
+        "dongeng",
+        "petualangan"
+      ],
+      "coverAsset": "assets/covers/si-kelingking.png",
+      "translations": {
+        "id-ID": {
+          "title": "Si Kelingking",
+          "content": [
+            "Di sebuah desa yang damai, tinggallah sepasang suami istri tua yang sangat mendambakan seorang anak. Bertahun-tahun mereka berdoa dan berharap. Suatu hari, sang istri berucap, \"Aku ingin memiliki anak, meskipun ia sekecil jari kelingkingku.\"",
+            "Doa itu rupanya dikabulkan. Beberapa bulan kemudian, lahirlah seorang bayi yang benar-benar mungil, tidak lebih besar dari jari kelingking. Kedua orang tuanya menamainya Si Kelingking dan merawatnya dengan sepenuh hati.",
+            "Meski tubuhnya sangat kecil, Si Kelingking memiliki semangat yang besar dan hati yang pemberani. Ia membantu ayahnya bertani dengan cara yang unik — ia berdiri di telinga kerbau dan mengarahkan hewan itu sambil berteriak petunjuk. Penduduk desa yang melihatnya selalu tertawa kagum.",
+            "Suatu hari, Si Kelingking meminta izin pergi ke kota mengadu nasib. Dengan bekal semangat dan kecerdikan, ia memulai perjalanan yang penuh petualangan.",
+            "Di kota, Si Kelingking menghadapi banyak tantangan. Ia hampir termakan kucing besar, tertiup angin masuk ke dalam gelas, dan terjatuh ke dalam mangkuk sup. Namun dengan kecerdikan dan keberaniannya, ia berhasil keluar dari semua kesulitan.",
+            "Akhirnya, Si Kelingking berhasil menemukan sebuah pusaka ajaib yang mengubahnya menjadi manusia dengan tinggi normal. Ia pulang ke desa dan menjadi kebanggaan orang tuanya, membuktikan bahwa keberanian dan kecerdasan tidak bergantung pada ukuran tubuh seseorang."
+          ]
+        },
+        "en-US": {
+          "title": "Si Kelingking",
+          "content": [
+            "In a peaceful village, there lived an elderly couple who deeply longed for a child. For years they prayed and hoped. One day, the wife said, \"I want a child, even if he's only as small as my little finger.\"",
+            "That prayer was answered. A baby was born truly tiny — no bigger than a little finger. The parents named him Si Kelingking and cared for him wholeheartedly.",
+            "Though his body was very small, Si Kelingking had great spirit and a brave heart. He helped his father farm in a unique way — standing in a buffalo's ear and shouting directions to guide the animal. Villagers who saw him always laughed in amazement.",
+            "One day, Si Kelingking asked permission to go to the city and seek his fortune. With spirit and cleverness as his provisions, he began his adventure-filled journey.",
+            "In the city, Si Kelingking faced many challenges. He almost got eaten by a large cat, was blown by wind into a glass, and fell into a soup bowl. But with his cleverness and bravery, he managed to escape all those difficulties.",
+            "Eventually, Si Kelingking found a magical heirloom that transformed him into a person of normal height. He returned home and became his parents' pride, proving that courage and intelligence do not depend on the size of one's body."
+          ]
+        }
+      }
+    },
+    {
+      "id": "kancil_001",
+      "ageRange": "4-7",
+      "tags": [
+        "fabel",
+        "cerdik"
+      ],
+      "coverAsset": "assets/covers/kancil.png",
+      "translations": {
+        "id-ID": {
+          "title": "Kancil dan Buaya",
+          "chapter": "Bab 1: Menyeberangi Sungai",
+          "content": [
+            "Pada suatu hari yang cerah, di tepi sebuah hutan yang lebat, hiduplah seekor Kancil yang sangat cerdik. Kancil itu sedang berjalan-jalan santai sambil menikmati udara pagi yang segar. Ia merasa lapar dan teringat akan ladang mentimun milik Pak Tani yang berada di seberang sungai.",
+            "\"Hmm, mentimun itu pasti sangat segar dan renyah,\" gumam si Kancil sambil membayangkan rasa buah kesukaannya. Namun, ada satu masalah besar yang harus ia hadapi: sungai yang memisahkan hutan dengan ladang tersebut sangat dalam dan berarus deras.",
+            "\"Bagaimana ya caranya aku bisa menyeberang tanpa harus basah kuyup?\" pikirnya. Tiba-tiba, ia melihat seekor buaya besar yang sedang berjemur di pinggir sungai. Sebuah ide cemerlang muncul di kepalanya. Dengan senyum lebar, si Kancil mendekati sungai.",
+            "\"Hai Buaya! Apakah kamu dan teman-temanmu sedang lapar hari ini? Aku membawa kabar gembira dari sang Raja Hutan!\" teriak si Kancil.",
+            "Buaya yang penasaran segera mengangkat kepalanya. \"Kabar apa itu, Kancil?\" tanyanya. \"Sang Raja Hutan ingin menghitung jumlah buaya yang ada di sungai ini, dan akan memberikan hadiah berupa makanan yang lezat bagi setiap buaya,\" jawab si Kancil dengan meyakinkan.",
+            "Para buaya sangat senang mendengar hal itu. Mereka berbaris panjang di sungai dari tepi ke tepi. Si Kancil pun melompat dari punggung buaya satu ke buaya lainnya sambil menghitung, \"Satu, dua, tiga...\" Sebelum buaya terakhir sadar, si Kancil sudah melompat ke seberang dan berteriak, \"Terima kasih, buaya! Aku sudah sampai di seberang berkat kalian!\""
+          ]
+        },
+        "en-US": {
+          "title": "The Clever Mousedeer and the Crocodiles",
+          "chapter": "Chapter 1: Crossing the River",
+          "content": [
+            "On a bright morning, at the edge of a dense jungle, there lived a very clever little mousedeer called Kancil. He was strolling leisurely, enjoying the fresh morning air, when hunger struck and he remembered the cucumber field across the river.",
+            "\"Hmm, those cucumbers must be so crisp and refreshing,\" Kancil murmured. But there was one big problem: the river was deep and fast-flowing.",
+            "\"How on earth can I cross without getting soaked?\" he wondered. Suddenly, he spotted a large crocodile basking on the riverbank. A brilliant idea flashed through his clever little head.",
+            "\"Hey, Crocodile! Are you and your friends hungry today? I bring wonderful news from the King of the Forest!\" shouted Kancil.",
+            "The curious crocodile lifted its head. \"What news is that, Kancil?\" it asked. \"The King of the Forest wants to count all the crocodiles in this river and will give delicious food to each one,\" replied Kancil convincingly.",
+            "The crocodiles were overjoyed and lined up in a row from bank to bank. Kancil leaped from one crocodile's back to the next, counting, \"One, two, three...\" Before the last crocodile realized what had happened, Kancil had already leaped to the other side and shouted, \"Thank you, crocodiles! I've crossed the river thanks to you!\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "kancilpaktani_001",
+      "ageRange": "4-8",
+      "tags": [
+        "fabel",
+        "cerdik"
+      ],
+      "coverAsset": "assets/covers/kancil-pak-tani.png",
+      "translations": {
+        "id-ID": {
+          "title": "Kancil dan Pak Tani",
+          "content": [
+            "Si Kancil yang cerdik sudah sangat terkenal di seluruh hutan. Namun kali ini ia sedang sangat lapar dan matanya tertuju pada ladang mentimun milik Pak Tani yang rimbun dan menggugah selera.",
+            "Dengan hati-hati, Si Kancil menyelinap masuk ke dalam ladang dan mulai memakan mentimun segar yang menggiurkan. \"Hmm, segar sekali!\" Ia terlalu asyik makan sehingga tidak menyadari Pak Tani mengintipnya dari balik pohon.",
+            "\"Hah! Tertangkap kau, Kancil!\" teriak Pak Tani sambil memasang jebakan. Si Kancil yang terkejut mencoba berlari, namun kakinya tersangkut di jebakan. Pak Tani mengikat Si Kancil pada sebuah pohon. \"Besok pagi kau akan menjadi lauk makan siangku!\" katanya.",
+            "Si Kancil berpikir keras. Ketika seekor anjing desa lewat dengan tatapan iba, Si Kancil berpura-pura gembira. \"Wah, kamu beruntung sekali bisa melihatku! Aku sedang menjalankan tugas penting menjaga pohon ini agar tidak jatuh. Pak Tani memberi upah yang sangat besar untukku!\"",
+            "Anjing itu tergiur dan meminta bergantian. Si Kancil pun rela \"digantikan\" dan melarikan diri ke hutan.",
+            "Namun kali ini, Si Kancil berjanji dalam hatinya untuk tidak lagi mencuri. Rasa takut yang ia rasakan mengajarkannya bahwa lebih baik mencari makanan dengan cara yang benar dan jujur."
+          ]
+        },
+        "en-US": {
+          "title": "Kancil and the Farmer",
+          "content": [
+            "The clever Si Kancil was famous throughout the forest. But this time he was very hungry and his eyes fixed on Pak Tani's lush, tempting cucumber field.",
+            "Carefully, Si Kancil sneaked in and began eating the fresh cucumbers. \"Hmm, so refreshing!\" He was so absorbed in eating that he didn't notice Pak Tani watching from behind a tree.",
+            "\"Ha! Caught you, Kancil!\" shouted Pak Tani while setting a trap. Kancil tried to run but his legs got caught. Pak Tani tied him to a tree. \"Tomorrow morning you'll be my lunch!\" he said.",
+            "Si Kancil thought hard. When a village dog passed by looking pitying, Si Kancil pretended to be cheerful. \"Wow, you're so lucky to see me here! I'm performing the important duty of guarding this tree so it doesn't fall. Pak Tani is paying me very handsomely!\"",
+            "The dog was tempted and asked to take turns. Si Kancil gladly agreed to be \"replaced\" and escaped back into the forest.",
+            "But this time, Si Kancil promised himself never to steal again. The fear he felt taught him it is always better to find food honestly and the right way."
+          ]
+        }
+      }
+    },
+    {
+      "id": "kurakuramonyet_001",
+      "ageRange": "4-8",
+      "tags": [
+        "fabel",
+        "moral"
+      ],
+      "coverAsset": "assets/covers/kura-kura-monyet.png",
+      "translations": {
+        "id-ID": {
+          "title": "Kura-Kura dan Monyet",
+          "content": [
+            "Di tepi sebuah sungai yang jernih, tinggallah seekor Kura-Kura yang sabar dan pekerja keras. Di pohon yang bergoyang di atasnya, tinggallah seekor Monyet yang lincah namun sangat serakah dan licik.",
+            "Suatu hari, Kura-Kura menemukan sebuah benih pisang. Dengan susah payah, ia menggali tanah dan menanamnya. Setiap hari ia menyirami dan merawatnya dengan penuh kasih sayang.",
+            "Monyet melihat hal itu dari atas pohon. \"Kura-Kura, mari kita bertanam bersama-sama. Aku akan membantumu,\" bujuk Monyet. Kura-Kura yang baik hati menyetujui. Namun ternyata Monyet tidak pernah benar-benar membantu — ia hanya menonton sementara Kura-Kura bekerja sendirian.",
+            "Ketika pohon pisang mulai berbuah lebat, Monyet melompat ke atas dan memakan semua pisang tanpa berbagi satu pun. \"Ha ha ha! Pisang ini begitu manis! Sayang sekali kau tidak bisa memanjat, Kura-Kura!\" ejeknya.",
+            "Kura-Kura diam dan tersenyum. Ia menyusun batang-batang bambu runcing di sekitar pohon pisang. Ketika Monyet melompat turun sambil tertawa-tawa, ia menjerit kesakitan karena menginjak bambu tajam itu.",
+            "\"Ini adalah pelajaran bagimu,\" kata Kura-Kura dengan tenang. \"Orang yang tidak mau berbagi dan selalu mengambil milik orang lain, pada akhirnya akan menuai akibatnya sendiri.\" Sejak hari itu, Monyet berjanji tidak akan serakah lagi."
+          ]
+        },
+        "en-US": {
+          "title": "The Tortoise and the Monkey",
+          "content": [
+            "On the bank of a clear river lived a patient, hardworking Tortoise. In a swaying tree above him lived a nimble but very greedy and crafty Monkey.",
+            "One day, Tortoise found a banana seed. With great effort, he dug the earth and planted it. Every day he watered and tended it with great care.",
+            "Monkey watched from above. \"Tortoise, let's plant together. I'll help you,\" Monkey said persuasively. Kind-hearted Tortoise agreed. But Monkey never really helped — he just watched while Tortoise worked alone.",
+            "When the banana tree began bearing abundant fruit, Monkey quickly leaped up and ate all the bananas without sharing a single one. \"Ha ha ha! These are so sweet! What a shame you can't climb, Tortoise!\" he taunted.",
+            "Tortoise stayed quiet and smiled. He arranged sharp bamboo poles around the banana tree. When Monkey leaped down laughing, he screamed in pain from stepping on the sharp bamboo.",
+            "\"This is a lesson for you,\" said Tortoise calmly. \"Those who refuse to share and always take what belongs to others will eventually reap the consequences.\" From that day, the chastened Monkey vowed never to be greedy again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "kelinciKurakura_001",
+      "ageRange": "4-8",
+      "tags": [
+        "fabel",
+        "moral"
+      ],
+      "coverAsset": "assets/covers/kelinci-kura-kura.png",
+      "translations": {
+        "id-ID": {
+          "title": "Kelinci dan Kura-Kura",
+          "content": [
+            "Di sebuah padang rumput yang hijau dan subur, hiduplah seekor Kelinci yang sangat cepat berlari. Ia sangat bangga dengan kecepatannya dan sering memamerkan kemampuannya di depan hewan-hewan lain.",
+            "\"Tidak ada yang bisa mengalahkanku berlari di hutan ini!\" sombong Kelinci sambil melompat-lompat di hadapan Kura-Kura yang sedang berjalan pelan. \"Lihat saja betapa lambatnya kau berjalan!\"",
+            "Kura-Kura yang tidak tersinggung tetap tersenyum. \"Baiklah, kalau begitu mengapa kita tidak berlomba lari? Siapa yang sampai ke pohon beringin besar di ujung padang ini terlebih dahulu, dialah pemenangnya.\" Semua hewan tertawa mendengar tantangan Kura-Kura.",
+            "Esok harinya, perlombaan dimulai. Kelinci melompat secepat kilat dan dalam sekejap sudah jauh meninggalkan Kura-Kura. Merasa pasti menang, Kelinci memutuskan untuk beristirahat di bawah pohon yang rindang.",
+            "\"Aku pasti akan tetap menang meskipun tidur sebentar,\" pikir Kelinci. Angin sepoi-sepoi membuatnya tertidur pulas.",
+            "Sementara itu, Kura-Kura terus melangkah tanpa henti — satu langkah demi satu langkah, tidak pernah berhenti, tidak pernah menoleh ke belakang. Ketika Kelinci terbangun, Kura-Kura sudah hampir di garis akhir. Kelinci berlari sekencang-kencangnya, namun terlambat. Kura-Kura sudah menyentuh pohon beringin terlebih dahulu. \"Lambat tapi pasti selalu mengalahkan cepat tapi ceroboh,\" kata Kura-Kura bijaksana."
+          ]
+        },
+        "en-US": {
+          "title": "The Tortoise and the Hare",
+          "content": [
+            "In a green and fertile meadow, there lived a Rabbit who could run incredibly fast. He was very proud of his speed and often showed off in front of the other animals.",
+            "\"No one can beat me running in this forest!\" boasted Rabbit, leaping around Tortoise who was walking slowly. \"Look at how slowly you walk!\"",
+            "Tortoise, not offended, kept smiling. \"Very well then, why don't we have a race? Whoever reaches the big banyan tree at the end of this meadow first wins.\" All the animals laughed at Tortoise's challenge.",
+            "The next day, the race began. Rabbit leaped lightning-fast and was quickly far ahead. Feeling certain of victory, he decided to rest under a shady tree.",
+            "\"I'll still win even with a little nap,\" thought Rabbit. The gentle breeze soon had him fast asleep.",
+            "Meanwhile, Tortoise kept stepping forward without stopping — one step at a time, never pausing, never looking back. When Rabbit woke up, Tortoise was almost at the finish line. Rabbit ran with all his speed, but it was too late. Tortoise had already touched the banyan tree. \"Slow and steady always beats fast and careless,\" said Tortoise wisely."
+          ]
+        }
+      }
+    },
+    {
+      "id": "semutbelalang_001",
+      "ageRange": "4-8",
+      "tags": [
+        "fabel",
+        "moral"
+      ],
+      "coverAsset": "assets/covers/semut-belalang.png",
+      "translations": {
+        "id-ID": {
+          "title": "Semut dan Belalang",
+          "content": [
+            "Di musim panas yang panjang dan menyenangkan, seekor Belalang hijau menghabiskan harinya dengan bernyanyi dan bermain-main di antara bunga-bunga berwarna-warni. Suaranya yang merdu mengisi seluruh padang dengan musik yang indah.",
+            "Setiap hari, Belalang melihat para Semut berjalan berbaris panjang, membawa biji-bijian yang jauh lebih besar dari tubuh mereka. \"Hei, Semut! Mengapa kalian bekerja keras di hari yang indah ini? Mari bermain bersamaku!\" teriak Belalang.",
+            "\"Kami sedang mengumpulkan makanan untuk musim dingin,\" jawab Ketua Semut. \"Kamu sebaiknya melakukan hal yang sama, Belalang.\" Belalang hanya tertawa. \"Musim dingin masih lama! Sekarang waktunya bersenang-senang!\"",
+            "Berbulan-bulan berlalu, dan musim dingin tiba. Angin dingin bertiup kencang, semua tanaman mati membeku. Tidak ada makanan di mana-mana.",
+            "Belalang yang kelaparan dan kedinginan mengetuk pintu sarang Semut. \"Semut, tolong bantu aku. Aku sangat lapar dan kedinginan.\" Ketua Semut membuka pintu dan melihat Belalang yang sangat sengsara.",
+            "Para Semut mengundang Belalang masuk dan memberikannya makanan yang hangat. \"Makanlah, namun ingatlah pelajaran ini: hidup tidak hanya tentang kesenangan saat ini. Selalu siapkan dirimu untuk hari-hari yang sulit,\" kata Ketua Semut dengan bijak. Belalang mengangguk penuh rasa syukur dan penyesalan."
+          ]
+        },
+        "en-US": {
+          "title": "The Ant and the Grasshopper",
+          "content": [
+            "During a long and pleasant summer, a green Grasshopper spent his days singing and playing among colorful flowers. His melodious voice filled the entire meadow with beautiful music.",
+            "Every day, Grasshopper watched the industrious Ants marching in long lines, carrying seeds much larger than their own bodies. \"Hey, Ants! Why work so hard on this beautiful day? Come play with me!\" shouted Grasshopper.",
+            "\"We are collecting food for winter,\" replied the Ant Chief. \"You should do the same, Grasshopper.\" Grasshopper just laughed. \"Winter is still far away! Now is the time to have fun!\"",
+            "Months passed and winter arrived. Cold wind blew strongly, all plants froze and died. There was no food anywhere.",
+            "The hungry and freezing Grasshopper knocked on the Ants' nest door. \"Ants, please help me. I am very hungry and cold.\" The Ant Chief opened the door and saw the miserable Grasshopper.",
+            "The Ants invited Grasshopper inside and gave him warm food. \"Eat, but remember this lesson: life is not just about present enjoyment. Always prepare yourself for difficult days,\" said the Ant Chief wisely. Grasshopper nodded with deep gratitude and regret."
+          ]
+        }
+      }
+    },
+    {
+      "id": "gagakcerdik_001",
+      "ageRange": "4-8",
+      "tags": [
+        "fabel",
+        "cerdik"
+      ],
+      "coverAsset": "assets/covers/burung-gagak-yang-cerdik.png",
+      "translations": {
+        "id-ID": {
+          "title": "Burung Gagak yang Cerdik",
+          "content": [
+            "Pada musim kemarau yang sangat panjang, seekor Gagak hitam terbang berputar-putar di atas ladang yang kering kerontang. Tenggorokannya terasa sangat haus, dan ia sudah terbang jauh mencari air namun tidak menemukan apa pun.",
+            "Akhirnya, dengan sayap yang hampir tak bertenaga, Gagak melihat sebuah kendi tanah liat tua di sudut kebun. Ketika mengintip ke dalam kendi, Gagak bisa melihat ada air di dasar kendi yang sempit.",
+            "Namun masalahnya, air itu berada jauh di dasar kendi dan paruh Gagak tidak bisa menjangkaunya. Ia mencoba memiringkan kendi tersebut, namun kendi itu terlalu berat untuk digeser.",
+            "Gagak yang cerdas tidak putus asa. Ia duduk diam sejenak, mengamati sekelilingnya, dan berpikir keras. Kemudian matanya tertuju pada batu-batu kecil yang berserakan di tanah. Sebuah ide cemerlang muncul!",
+            "Satu per satu, Gagak mengambil batu dengan paruhnya dan menjatuhkannya ke dalam kendi. Perlahan-lahan, air di dalam kendi naik sedikit demi sedikit seiring dengan bertambahnya batu. Gagak tidak berhenti, terus memasukkan batu dengan sabar dan tekun.",
+            "Setelah memasukkan banyak batu, air akhirnya naik cukup tinggi hingga Gagak bisa meminumnya. \"Ah, segar sekali!\" kata Gagak dengan lega. Kisah ini mengajarkan bahwa kecerdasan dan ketekunan selalu menemukan jalan keluar, bahkan di saat yang paling sulit sekalipun."
+          ]
+        },
+        "en-US": {
+          "title": "The Clever Crow",
+          "content": [
+            "During a very long dry season, a black Crow circled above a parched, cracked field. His throat felt terribly dry, and he had flown far searching for water but found nothing.",
+            "Finally, nearly exhausted, Crow spotted an old clay pitcher in the corner of a garden. When he peered inside, he could see water sitting deep at the bottom.",
+            "But the water was far too low and the pitcher too narrow for his beak to reach. He tried tilting the pitcher, but it was too heavy to move.",
+            "The clever Crow did not give up. He sat quietly, observed his surroundings, and thought hard. Then his eyes fell on small pebbles scattered on the ground. A brilliant idea struck!",
+            "One by one, Crow picked up pebbles with his beak and dropped them into the pitcher. Slowly, the water level rose little by little as more pebbles were added. Crow did not stop, patiently and diligently continuing.",
+            "After adding many pebbles, the water finally rose high enough for Crow to drink. \"Ah, so refreshing!\" said Crow with relief. This story teaches that intelligence and perseverance always find a way out, even in the most difficult of moments."
+          ]
+        }
+      }
+    },
+    {
+      "id": "singatikus_001",
+      "ageRange": "4-8",
+      "tags": [
+        "fabel",
+        "moral"
+      ],
+      "coverAsset": "assets/covers/singa-tikus.png",
+      "translations": {
+        "id-ID": {
+          "title": "Singa dan Tikus",
+          "content": [
+            "Di hutan yang lebat dan sunyi, hiduplah seekor Singa yang sangat besar dan kuat — raja hutan yang ditakuti oleh semua binatang.",
+            "Suatu siang yang panas, Singa sedang tidur siang dengan nyenyak di bawah pohon besar. Tanpa disengaja, seekor Tikus kecil yang sedang berlari-lari kecil melewatinya dan malah menginjak hidung sang Raja Hutan.",
+            "Singa terbangun dengan marah. Dengan cakar besarnya, ia menangkap Tikus dan mengangkatnya ke udara. \"Berani sekali kau mengganggu tidurku! Aku akan memakanmu sebagai pelajaran!\" aum Singa.",
+            "Tikus yang gemetar memohon dengan sungguh-sungguh. \"Ampun, Yang Mulia! Tolong jangan makan aku! Suatu hari nanti, aku berjanji akan membalasmu dengan kebaikan!\" Singa tertawa keras. \"Bagaimana makhluk sekecilmu bisa membantu Raja Hutan?\" Namun karena merasa lucu, Singa melepaskan Tikus tersebut.",
+            "Beberapa minggu kemudian, Singa terjebak dalam jaring besar yang dipasang oleh para pemburu. Ia meronta-ronta dengan seluruh kekuatannya, namun jaring itu semakin erat membelitnya. Singa mengaum sekeras-kerasnya meminta tolong.",
+            "Suara itu terdengar oleh si Tikus kecil yang segera berlari mendekatinya. Tanpa berkata-kata, Tikus mulai menggerogoti tali-tali jaring dengan gigi tajamnya. Satu per satu tali putus hingga Singa berhasil bebas. \"Terima kasih,\" kata Singa dengan tulus. \"Aku tidak menyangka makhluk sekecilmu bisa menyelamatkanku.\" Kisah ini mengajarkan bahwa tidak ada kebaikan yang terlalu kecil, dan tidak ada makhluk yang terlalu kecil untuk memberikan pertolongan."
+          ]
+        },
+        "en-US": {
+          "title": "The Lion and the Mouse",
+          "content": [
+            "In a dense and quiet forest lived a very large and powerful Lion — the king of the jungle, feared by all animals.",
+            "One hot afternoon, Lion was sleeping soundly under a large tree. By accident, a small Mouse running around stepped right on the King of the Jungle's nose.",
+            "Lion woke up furiously. With his large claws, he grabbed Mouse and lifted him into the air. \"How dare you disturb my sleep! I will eat you as a lesson!\" roared Lion.",
+            "Mouse, trembling with fear, begged most earnestly. \"Mercy, Your Majesty! Please don't eat me! One day I promise I will repay your kindness!\" Lion laughed loudly. \"How could a tiny creature like you ever help a lion?\" But finding it amusing, he released the Mouse.",
+            "Several weeks later, Lion got trapped in a large net set by hunters. He struggled with all his strength, but the net only wound tighter. Lion roared as loudly as he could for help.",
+            "The little Mouse heard the roar and quickly ran over. Without a word, Mouse began gnawing at the net's ropes with his sharp teeth. One by one the ropes broke, and Lion was free. \"Thank you,\" said Lion sincerely. \"I never imagined that a creature as small as you could save me.\" This story teaches that no act of kindness is too small, and no creature is too small to help."
+          ]
+        }
+      }
+    },
+    {
+      "id": "anjingserakah_001",
+      "ageRange": "4-8",
+      "tags": [
+        "fabel",
+        "moral"
+      ],
+      "coverAsset": "assets/covers/anjing-yang-serakah.png",
+      "translations": {
+        "id-ID": {
+          "title": "Anjing yang Serakah",
+          "content": [
+            "Di sebuah desa yang ramai, hiduplah seekor Anjing yang setia milik seorang pedagang daging. Suatu sore yang beruntung, sang pedagang memberikannya sepotong daging yang besar sebagai hadiah karena telah menjaga toko dengan baik.",
+            "Anjing itu sangat gembira. Ia menggigit erat-erat dagingnya dan berlari pulang dengan hati penuh kebahagiaan. Di tengah perjalanan, ia harus melewati sebuah jembatan kayu yang melintasi sungai kecil yang jernih.",
+            "Saat berjalan di atas jembatan, Anjing melihat ke bawah dan terkejut. Di dalam air, ada seekor Anjing lain yang juga sedang menggigit sepotong daging! Ia tidak menyadari bahwa ia sedang melihat bayangannya sendiri di permukaan air.",
+            "\"Hei! Daging milik Anjing itu kelihatan lebih besar dari milikku!\" pikir Anjing dengan serakah. \"Aku harus mendapatkan daging itu juga!\" Tanpa berpikir panjang, Anjing membuka mulutnya lebar-lebar dan menggonggong keras ke arah bayangan itu.",
+            "Seketika itu, daging yang ada di mulutnya terlepas dan tercebur ke dalam sungai. Arus air langsung membawa daging itu hanyut ke tempat yang tidak bisa dijangkau.",
+            "Anjing berdiri terpaku di atas jembatan, memandangi daging yang sudah hilang dengan perasaan menyesal yang sangat dalam. Ia pulang dengan perut kosong dan hati yang sedih. \"Karena keserakahanku, aku telah kehilangan apa yang sudah ada di tanganku,\" sesalnya. Sejak saat itu, Anjing selalu bersyukur atas apa yang ia miliki."
+          ]
+        },
+        "en-US": {
+          "title": "The Greedy Dog",
+          "content": [
+            "In a bustling village, there lived a loyal Dog belonging to a butcher. One fortunate afternoon, the butcher gave him a large, meaty bone as a reward for guarding the shop well.",
+            "The Dog was very happy. He gripped his bone tightly and ran home with a heart full of joy. Along the way, he had to cross a wooden bridge over a small clear stream.",
+            "As he walked on the bridge, Dog looked down and was startled. In the water, there was another Dog who was also holding a bone! Dog did not realize he was seeing his own reflection in the clear water.",
+            "\"Hey! That Dog's bone looks bigger than mine!\" thought Dog greedily. \"I must get that bone too!\" Without thinking, Dog opened his mouth wide and barked loudly at the reflection.",
+            "Instantly, the bone in his own mouth dropped and splashed into the river. The current immediately carried it away somewhere out of reach.",
+            "Dog stood frozen on the bridge, staring at his lost bone with deep regret. He went home with an empty stomach and a sad heart. \"Because of my greed, I lost what I already had,\" he lamented. From that day on, Dog always remained grateful for what he had."
           ]
         }
       }
@@ -80,129 +946,61 @@
         "pengantar tidur",
         "percaya diri"
       ],
-      "coverAsset": "https://raw.githubusercontent.com/rajaslucky89/dongeng/main/covers/bintang.png",
+      "coverAsset": "assets/covers/bintang.png",
       "translations": {
         "id-ID": {
-          "title": "Bintang yang Malu",
+          "title": "Bintang Kecil di Langit Malam",
           "content": [
-            "Di langit malam, ada sebuah bintang kecil yang selalu bersembunyi di balik awan. Ia merasa cahayanya terlalu redup.",
-            "Suatu malam, angin berbisik, 'Cahayamu cukup untuk menerangi jalan siapa pun yang tersesat.'",
-            "Bintang kecil pun berani bersinar lebih terang. Di bawah sana, seorang anak tersenyum dan berkata, 'Lihat! Bintang itu cantik sekali.'",
-            "Sejak saat itu, bintang kecil tidak malu lagi. Ia tahu, cahaya kecil pun tetap berarti."
+            "Di langit malam, ada sebuah bintang kecil yang selalu bersembunyi di balik awan. Ia merasa cahayanya terlalu redup dibandingkan bintang-bintang besar yang bersinar terang.",
+            "\"Siapa yang mau melihatku? Aku terlalu kecil dan redup,\" bisik bintang kecil itu kepada dirinya sendiri setiap malam.",
+            "Suatu malam, angin berbisik dengan lembut, \"Cahayamu cukup untuk menerangi jalan siapa pun yang tersesat. Jangan pernah malu dengan cahayamu sendiri.\"",
+            "Bintang kecil pun memberanikan diri untuk bersinar lebih terang. Ia keluar dari balik awan dan memancarkan cahayanya sepenuh hati.",
+            "Di bawah sana, seorang anak kecil yang sedang berjalan pulang di malam hari mendongak ke langit dan tersenyum. \"Lihat! Ada bintang cantik yang bersinar terang untuk kita!\" serunya dengan gembira.",
+            "Sejak saat itu, bintang kecil tidak malu lagi. Setiap malam ia bersinar dengan penuh kebanggaan. Ia tahu, cahaya kecil pun tetap berarti dan dapat menerangi hati orang lain."
           ]
         },
         "en-US": {
-          "title": "The Shy Little Star",
+          "title": "The Little Star in the Night Sky",
           "content": [
-            "In the night sky, a little star always hid behind the clouds. It thought its light was too dim.",
-            "One night, the wind whispered, 'Your light is enough to guide anyone who feels lost.'",
-            "The little star bravely shone brighter. A child below smiled, 'Look! That star is so beautiful.'",
-            "From then on, the little star was not shy anymore. It learned that even a small light matters."
+            "In the night sky, a little star always hid behind the clouds. It thought its light was too dim compared to the big bright stars.",
+            "\"Who would want to look at me? I am too small and too faint,\" the little star whispered to itself every night.",
+            "One night, the wind whispered gently, \"Your light is enough to guide anyone who feels lost. Never be ashamed of your own light.\"",
+            "The little star gathered its courage and decided to shine brighter. It came out from behind the clouds and radiated its light wholeheartedly.",
+            "Below, a small child walking home at night looked up at the sky and smiled. \"Look! There's a beautiful star shining brightly for us!\" the child cried out joyfully.",
+            "From then on, the little star was no longer shy. Every night it shone with great pride. It knew that even a small light matters and can brighten someone else's heart."
           ]
         }
       }
     },
     {
-      "id": "malinkundang_001",
-      "ageRange": "6-12",
+      "id": "putribulan_001",
+      "ageRange": "3-7",
       "tags": [
-        "legenda",
-        "cerdik"
+        "pengantar tidur",
+        "fantasi"
       ],
-      "coverAsset": "https://raw.githubusercontent.com/rajaslucky89/dongeng/main/covers/malinkundang.png",
+      "coverAsset": "assets/covers/putri-bulan-mimpi-indah.png",
       "translations": {
         "id-ID": {
-          "title": "Malin Kundang",
-          "chapter": "Bab 1: Kepulangan Sang Saudagar",
+          "title": "Putri Bulan dan Mimpi Indah",
           "content": [
-            "Dermaga di Pantai Air Manis sore itu dipadati oleh penduduk desa yang penasaran. Dari kejauhan, sebuah kapal megah dengan layar-layar sutra berwarna keemasan perlahan mendekati tepian. Kapal itu bukanlah kapal biasa; ukurannya raksasa, dengan ukiran kayu yang rumit dan hiasan permata yang berkilauan diterpa cahaya matahari terbenam.",
-            "Sesampainya di dermaga, seorang pria muda berpakaian sangat mewah melangkah turun dengan gagah. Ia mengenakan jubah beludru biru tua dengan sulaman benang emas, simbol kekayaan yang luar biasa. Di sampingnya berdiri seorang wanita cantik jelita, istrinya, yang juga mengenakan perhiasan yang menyilaukan mata.",
-            "\"Lihatlah! Itulah Malin! Malin telah kembali sebagai saudagar kaya!\" seru seorang penduduk dengan penuh takjub.",
-            "Kabar kepulangan Malin Kundang segera menyebar ke seluruh pelosok desa bagaikan api yang ditiup angin. Kabar itu sampai ke telinga seorang wanita tua renta yang mengenakan pakaian compang-camping. Hatinya bergetar hebat. Dengan langkah tertatih-tatih dan air mata kebahagiaan yang mulai mengalir, ia bergegas menuju pelabuhan, berharap penantian panjangnya selama bertahun-tahun akhirnya berakhir.",
-            "Ia tak memedulikan badannya yang lemah. Di pikirannya hanya ada satu nama: Malin, anak kesayangannya yang dulu pergi merantau untuk mengubah nasib.",
-            "Sesampainya di depan Malin, wanita tua itu memanggil dengan suara bergetar, \"Malin... Malin anakku, ini Ibu!\" Namun, Malin yang kini kaya raya merasa malu mengakui wanita compang-camping itu di depan istrinya yang cantik. Ia mendorong ibunya hingga jatuh dan berteriak, \"Pergi! Kau bukan ibuku! Ibuku tidak miskin dan kotor seperti ini!\"",
-            "Hati wanita tua itu hancur berkeping-keping. Sambil menangis dan menengadah ke langit, ia berdoa, \"Ya Tuhan, jika benar ia adalah Malin anakku, hukumlah ia atas kedurhakaannya!\" Seketika, langit yang tadinya cerah menjadi gelap gulita. Badai dahsyat datang menerjang kapal megah Malin Kundang.",
-            "Di tengah sambaran petir and amukan ombak, Malin Kundang tersungkur di atas batu karang. Perlahan-lahan, tubuhnya mulai mengeras dan berubah warna menjadi kelabu. Ia bersimpuh memohon ampun, namun segalanya sudah terlambat. Malin Kundang telah berubah menjadi batu, menjadi pengingat abadi bagi siapa pun yang berani mendurhakai orang tua."
+            "Di ujung langit yang paling tinggi, di balik awan-awan putih yang lembut seperti kapas, tinggallah Putri Bulan yang cantik. Setiap malam, ia menyalakan lampunya dan berjalan pelan mengelilingi seluruh bumi, menyinari setiap sudut yang gelap dengan cahayanya yang lembut dan keperakan.",
+            "Suatu malam, Putri Bulan melihat ke bawah dan mendapati banyak anak-anak yang belum bisa tidur. Mereka berbaring di tempat tidur masing-masing, mata mereka masih melek lebar-lebar.",
+            "\"Kasihan anak-anak itu,\" kata Putri Bulan sambil menghela napas lembut. Ia pun memanggil semua bintang-bintang kecil yang berkelip di sekitarnya. \"Teman-temanku, mari kita bantu mereka tidur dengan nyenyak malam ini.\"",
+            "Putri Bulan dan para bintang mulai menebarkan debu mimpi yang indah dari atas awan. Debu itu turun perlahan seperti salju tipis yang berkilau, menerobos jendela-jendela rumah dan hinggap dengan lembut di kelopak mata anak-anak.",
+            "Satu per satu, mata anak-anak pun terpejam. Senyum kecil menghiasi wajah-wajah mungil mereka. Dalam tidur mereka, mereka terbang bersama Putri Bulan, berlayar di antara bintang-bintang, menunggangi awan-awan yang lembut, dan bermain di taman bunga yang tidak pernah layu.",
+            "Putri Bulan tersenyum puas melihat semua anak tidur dengan damai. \"Tidurlah dengan nyenyak, anak-anak kecil yang baik hati,\" bisiknya lembut. \"Besok pagi, matahari akan bangunkanmu dengan penuh semangat dan kebahagiaan baru.\" Dan di bawah penjagaan Putri Bulan, semua anak pun tenggelam dalam mimpi-mimpi yang paling indah sepanjang malam."
           ]
         },
         "en-US": {
-          "title": "Malin Kundang",
-          "chapter": "Chapter 1: The Merchant's Return",
+          "title": "The Moon Princess and Beautiful Dreams",
           "content": [
-            "The dock at Pantai Air Manis that afternoon was crowded with curious villagers. From afar, a magnificent ship with golden silk sails slowly approached the shore. It was no ordinary ship; it was giant, with intricate wood carvings and jewel decorations that shimmered in the sunset light.",
-            "Upon arriving at the dock, a very luxuriously dressed young man stepped down gallantly. He wore a dark blue velvet robe with gold thread embroidery, a symbol of immense wealth. Beside him stood a beautiful woman, his wife, who also wore dazzling jewelry.",
-            "\"Look! That's Malin! Malin has returned as a wealthy merchant!\" exclaimed a villager in amazement.",
-            "The news of Malin Kundang's return spread throughout the village like wildfire. The news reached the ears of an old woman dressed in rags. Her heart trembled. With staggering steps and tears of joy starting to flow, she rushed to the harbor, hoping her years of long waiting were finally over.",
-            "She didn't care about her weak body. In her mind was only one name: Malin, her beloved son who had gone abroad to change his fate.",
-            "Arriving in front of Malin, the old woman called out in a trembling voice, \"Malin... Malin my son, it's Mother!\" However, Malin, who was now wealthy, felt ashamed to acknowledge the ragged woman in front of his beautiful wife. He pushed his mother down and shouted, \"Go away! You are not my mother! My mother is not poor and dirty like this!\"",
-            "The old woman's heart was shattered. Weeping and looking up at the sky, she prayed, \"Oh God, if he is truly my son Malin, punish him for his disobedience!\" Instantly, the previously clear sky turned pitch black. A fierce storm struck Malin Kundang's magnificent ship.",
-            "Amidst lightning strikes and raging waves, Malin Kundang fell onto the rocks. Slowly, his body began to harden and turn gray. He knelt begging for forgiveness, but it was too late. Malin Kundang had turned into stone, an eternal reminder to anyone who dares to disobey their parents."
-          ]
-        }
-      }
-    },
-    {
-      "id": "keongmas_001",
-      "ageRange": "5-10",
-      "tags": [
-        "legenda",
-        "dongeng"
-      ],
-      "coverAsset": "https://raw.githubusercontent.com/rajaslucky89/dongeng/main/covers/keongmas.png",
-      "translations": {
-        "id-ID": {
-          "title": "Keong Mas",
-          "chapter": "Bagian 1",
-          "content": [
-            "Dahulu kala di Kerajaan Daha, hiduplah dua orang putri cantik bernama Candra Kirana dan Galuh Ajeng. Candra Kirana telah bertunangan dengan Raden Inu Kertapati, pangeran tampan dari Kerajaan Kahuripan.",
-            "Namun, Galuh Ajeng yang merasa iri hati bersekutu dengan seorang penyihir jahat untuk mencelakai saudaranya sendiri. Karena fitnah kejam itu, Raja Daha mengusir Candra Kirana dari istana.",
-            "\"Engkau akan menjadi seekor keong emas!\" teriak si penyihir seraya mengayunkan tongkatnya. \"Kutukan ini hanya akan hilang jika engkau bertemu dengan tunanganmu.\"",
-            "Candra Kirana pun berubah menjadi seekor keong berwarna emas yang berkilauan dan dibuang ke laut. Tak lama kemudian, seekor keong emas itu tersangkut di jala seorang janda tua yang sedang mencari ikan di pesisir pantai.",
-            "Nenek tua itu merasa kasihan dan membawanya pulang untuk dirawat di sebuah tempayan. Betapa terkejutnya sang nenek ketika keesokan harinya ia menemukan meja makannya sudah penuh dengan masakan lezat yang entah dari mana datangnya..."
-          ]
-        },
-        "en-US": {
-          "title": "The Golden Snail",
-          "chapter": "Part 1",
-          "content": [
-            "Long ago in the Kingdom of Daha, lived two beautiful princesses named Candra Kirana and Galuh Ajeng. Candra Kirana was engaged to Raden Inu Kertapati, a handsome prince from the Kingdom of Kahuripan.",
-            "However, the envious Galuh Ajeng conspired with an evil witch to harm her own sister. Because of cruel slander, the King of Daha exiled Candra Kirana from the palace.",
-            "\"You shall become a golden snail!\" shouted the witch while waving her staff. \"This curse will only vanish when you meet your fiancé.\"",
-            "Candra Kirana turned into a shimmering golden snail and was thrown into the sea. Not long after, the golden snail was caught in the net of an old widow who was fishing on the shore.",
-            "The old woman felt pity and brought it home to be cared for in a clay jar. How surprised the grandmother was when the next day she found her dining table already full of delicious dishes that came from nowhere..."
-          ]
-        }
-      }
-    },
-    {
-      "id": "bawang_001",
-      "ageRange": "6-12",
-      "tags": [
-        "folklore",
-        "bedtime"
-      ],
-      "coverAsset": "https://raw.githubusercontent.com/rajaslucky89/dongeng/main/covers/bawangmerahputih.png",
-      "translations": {
-        "id-ID": {
-          "title": "Bawang Merah & Bawang Putih",
-          "content": [
-            "Dahulu kala, di sebuah desa yang asri, hiduplah seorang gadis cantik bernama Bawang Putih. Ia memiliki hati yang sangat lembut dan rajin. Bawang Putih tinggal bersama ibu tiri dan saudara tirinya, Bawang Merah.",
-            "\"Bawang Putih, cepat cuci semua baju ini di sungai! Jangan pulang sebelum semuanya bersih!\" teriak Bawang Merah dengan angkuh.",
-            "Setiap hari, Bawang Putih harus mengerjakan semua pekerjaan rumah sendirian, sementara Bawang Merah dan ibunya hanya bersantai. Suatu hari, saat sedang mencuci di sungai, salah satu baju milik ibu tirinya hanyut terbawa arus.",
-            "Dengan perasaan cemas, Bawang Putih menyusuri aliran sungai. Di tengah perjalanannya, ia bertemu dengan seorang nenek tua yang misterius. Nenek itu menawarkan bantuan, namun dengan sebuah syarat: Bawang Putih harus membantunya membersihkan gubuk tuanya yang berdebu.",
-            "Setelah selesai membantu, nenek itu memberikan hadiah sebagai tanda terima kasih. Ia menyodorkan dua buah labu, satu besar dan satu kecil. Karena kerendahan hatinya, Bawang Putih memilih labu yang kecil.",
-            "Betapa terkejutnya Bawang Putih saat membelah labu tersebut di rumah. Di dalamnya terdapat tumpukan emas dan permata yang berkilau! Melihat hal itu, Bawang Merah yang iri segera mencari nenek tersebut untuk mendapatkan hadiah yang lebih besar."
-          ]
-        },
-        "en-US": {
-          "title": "Bawang Merah & Bawang Putih",
-          "content": [
-            "Once upon a time, in a beautiful village, lived a beautiful girl named Bawang Putih. She had a very gentle heart and was hardworking. Bawang Putih lived with her stepmother and stepsister, Bawang Merah.",
-            "\"Bawang Putih, wash all these clothes in the river immediately! Don't come home until everything is clean!\" shouted Bawang Merah arrogantly.",
-            "Every day, Bawang Putih had to do all the housework alone, while Bawang Merah and her mother just relaxed. One day, while washing in the river, one of her stepmother's clothes was washed away by the current.",
-            "With anxious feelings, Bawang Putih followed the river flow. In the middle of her journey, she met a mysterious old woman. The grandmother offered help, but with one condition: Bawang Putih had to help her clean her dusty old hut.",
-            "After finishing the help, the grandmother gave a gift as a token of gratitude. She offered two pumpkins, one large and one small. Because of her humility, Bawang Putih chose the small pumpkin.",
-            "How surprised Bawang Putih was when she split the pumpkin at home. Inside there was a pile of gold and glittering jewels! Seeing that, the envious Bawang Merah immediately looked for the grandmother to get a bigger prize."
+            "At the very edge of the highest sky, behind clouds as soft and white as cotton, lived the beautiful Moon Princess. Every night, she lit her lamp and walked slowly around the entire earth, lighting every dark corner with her gentle, silvery glow.",
+            "One night, Moon Princess looked down and found so many children who hadn't fallen asleep yet. They lay in their beds, eyes still wide open.",
+            "\"Poor little children,\" said Moon Princess with a gentle sigh. She called all the tiny twinkling stars around her. \"My friends, let us help them sleep soundly tonight.\"",
+            "Moon Princess and the stars began sprinkling beautiful dream dust from above the clouds. The dust drifted down slowly like glittering fine snowflakes, slipping through the windows of homes and settling softly on the children's eyelids.",
+            "One by one, the children's eyes closed. Small smiles adorned their tiny faces. In their sleep, they flew with Moon Princess, sailed among the stars, rode on soft clouds, and played in gardens of flowers that never wilted.",
+            "Moon Princess smiled contentedly seeing all the children sleeping peacefully. \"Sleep soundly, kind little ones,\" she whispered gently. \"Tomorrow morning, the sun will wake you with new energy and new happiness.\" And under Moon Princess's watch, all the children sank into the most beautiful dreams throughout the night."
           ]
         }
       }
